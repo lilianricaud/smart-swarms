@@ -1,0 +1,3 @@
+Nous devons fabriquer notre liberté en faisant des trous dans l'étoffe de cette réalité, en forgeant des réalités nouvelles qui elles mêmes nous façonneront. Se mettre constamment dans des situations nouvelles est la seule façon d'être sur de prendre des décisions affranchies de l'inertie de l'habitude, de la coutume, de la loi ou du préjugé - et c'est à chacun de créer ces situations . La liberté n'existe que dans le moment de la révolution. Et ces moments ne sont pas aussi rares qu'on le pense. Le changement, le changement révolutionnaire, se produit sans cesse et partout - tout le monde y joue un role consciemment ou non.
+
+CrimetheInc, cité par David Graeber dans Bureaucratie
