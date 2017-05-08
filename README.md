@@ -1,0 +1,2 @@
+# smart-swarms
+This folder support the writing of a future book about smart-swarms, ie crowds self-organizing stigmergically around shared purpose using co-creative games as common rules. Ce dossier sert de support à la rédaction d'un livre sur les essaims intelligents, des groupe en réseau qui s'auto-organisent par stigmergie autour d'un objectifs communs en utilisant des jeux co-créatifs comme règles du jeu communes.
