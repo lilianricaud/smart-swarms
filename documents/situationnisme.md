@@ -2,6 +2,8 @@
 
 ## Définition de situationnisme
 
+source: http://www.toupie.org/Dictionnaire/Situationnisme.htm
+
 Etymologie : de situation, du latin situs, lieu, emplacement.
 
 Le situationnisme désigne un mouvement contestataire philosophique, esthétique et politique incarné par l'Internationale situationniste, "plate-forme collective", fondée par huit artistes en 1957, lors de la conférence de Cosio d'Arroscia. Il est constitué de 70 membres dont 7 femmes et 63 hommes, de 16 nationalités différentes.
@@ -25,9 +27,6 @@ Le mouvement de mai 68 s'avère, par bien des aspects, être une confirmation de
 
     Définition du situationnisme par les situationnistes :
     "Vocable privé de sens, abusivement forgé par dérivation du terme précédent. Il n'y a pas de situationnisme, ce qui signifierait une doctrine d'interprétation des faits existants. La notion de situationnisme est évidemment conçue par les anti-situationnistes." (Internationale Situationniste) 
-
-### Source
-
 
 
 
@@ -168,3 +167,22 @@ Politikon Urbain, [L’urbanisme situationniste : une notion à la dérive](http
 Rubriques "[Situationnistes et apparentés](https://infokiosques.net/situationnistes_et_apparentes)" sur le site Infokiosques
 
 Internationale situationniste sur le site [La revue des ressources](http://www.larevuedesressources.org/_internationale-situationniste,052_.html)
+
+
+
+## Jeu, fête et situationnisme
+
+La grande fête orgiaque devient le symbole de la révolte situationniste. En 1966, la brochure De la misère en milieu étudiant résume cette démarche. **« Les révolutions prolétariennes seront des fêtes ou ne seront pas, car la vie qu’elles annoncent sera elle-même créée sous le signe de la fête. Le jeu est la rationalité ultime de cette fête, vivre sans temps mort et jouir sans entraves seront les seules règles qu’il pourra reconnaître », indique la brochure.**
+
+(...) Le jeu permanent s’apparente à une manière de vivre, en rupture avec les conformismes et les conventions sociales. Contre l’aliénation marchande et les loisirs, le jeu et le plaisir doivent subvertir le quotidien. « Il s’agit de reprendre au spectacle ce qu’il a lui-même figé sur les écrans de cinéma, le papier glacé des magazines, ou dans les lunaparks : le jeu, l’aventure, la joie », résument Emmanuel Guy et Laurence Le Bras.
+
+Le **détournement** consiste à reprendre librement et à se réapproprier des éléments de la culture comme les images, les films, les publicités ou les bandes dessinées. Cette pratique s’oppose à la propriété intellectuelle et à la marchandisation. Elle dessine donc un communisme littéraire.
+
+La **dérive** permet de se réapproprier l’espace urbain. Guy Debord définit cette pratique comme « le passage hâtif à travers des ambiances variées ». La flânerie et la déambulation urbaine doivent permettre de découvrir des ambiances nouvelles. La dérive s’oppose à l’urbanisme qui vise à contrôler et orienter les flux humains.
+
+L’**urbanisme unitaire** refuse la séparation entre l’art et la ville. Mais toutes les formes de séparation doivent être abolies : entre les différentes disciplines artistiques ou entre travail et loisir. Ce projet doit construire un mode de vie ludique libéré des contraintes du travail.
+
+
+Les situationnistes reprennent également les réflexions de Marx qui critique les critères de scientificité et d’objectivité. Guy Debord estime que c’est par l’action, et l’expérimentation de nouveaux styles de vie, qu’il est possible d’accéder à la connaissance. 
+
+http://www.zones-subversives.com/guy-debord-po%C3%A8te-et-r%C3%A9volutionnaire
