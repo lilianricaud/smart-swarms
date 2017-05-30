@@ -49,6 +49,11 @@ manuel théorique et pratique: théorise et donne clés de mise en pratique. Liv
 pourrait etre trouvé dans café alternatif de st-etienne, tours, café citoyen de lille.
 
 Bel objet.
+Raconter une histoire pour que le contenus soit accessible et intuitivement perçu par les lecteurs. Est ce que l'histoire peut raconter le récit d'un héros qui est influencés par le situationnisme, les tazs et va plus loin en lançant des MOTS-BOMBES qui font exploser le sens et des MOTS-EVENEMENTS qui aggregent des ESSAIMS-INTELLIGENTS (opposés de FOULE STUPIDES ou les plus petits dénominateur gagne)
+
+Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de théorie.
+
+
 
 #### PATTERNS
 
@@ -76,8 +81,6 @@ Mieux ce processus commence a se faire en réseau global et decentralisé où ch
 
 ### Quel est notre vocabulaire du faire ensemble ?
 
-La première étape est une sorte de satori - prendre conscience que la TAZ commence par le simple acte d'en prendre conscience"
-
 Si nous avions un langage pour décrire nos pratiques du faire ensemble et de la rencontre, quels en serait les mots que toustes comprendraient ?
 
 Quelles sont les rencontres, les rituels connus et qui n'ont pas besoin d'être definis pour être compris par toustes.
@@ -99,6 +102,11 @@ De quels patterns sont composés ces evenements ?
 
 #### Des indignés à Occupy à #NuitDebout
 
+innovation en réseau
+
+#### Stigmergie
+
+auto-organisation centrée sur l'action sans coopération directe
 
 
 #### Caractéristiques de ces nouveaux évènements co-créatifs
@@ -118,6 +126,34 @@ Appliqués aux evenements, ils permettent de cartographier les bonnes pratiques 
 -> enrichir les evenement existants, pas à pas, via un processus génératifs pour qu'ils soient multifonctions, interdiscilplinanire
 
 ### Concevoir des evenements-actions-sens
+
+La première étape est une sorte de satori - prendre conscience que la TAZ commence par le simple acte d'en prendre conscience"
+
+### Vocabulaire-guerilla
+
+Ambiguité entre la nécessité d'avoir un langage commun qui puisse servir d'objet social et le risque que ce vocabulaire soit récupéré (ex disco soupe ou coding gouter, récupéré et/ou vidé de leur sens). 
+
+Exemple du verlan récupéré.
+
+nécessité d'un équilibre entre un vocabulaire commun qui permet de se coordoner et un argot qui avance plus vite que la récupération. Utiliser les mots un certain temps mais être conscient que s'ils sont pris il faut s'en détourner comme des places occupés temporairement dans un action de guerilla.
+
+### Inventer des mots
+
+bonnes pratiques:
+
+latin ou grec ou autre langue, fusionné et mis à jour/coloré dans la langue souhaité.
+
+#### Patterns
+
+- OBJECTIF PREPONDERANT
+- SENS
+- ACTION PREFIGURATIVE
+- RECETTE LIBRE
+- SITE WEB / OUTILS DE COMMUNICATION
+- VOCABULAIRE GUERILLA
+
+
+
 
 ### Principes de système stigmergique
 
