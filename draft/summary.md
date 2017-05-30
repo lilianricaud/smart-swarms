@@ -43,28 +43,46 @@ LIMINALITY
 
 ## Résumé
 
+### Intro / intention
+
+manuel théorique et pratique: théorise et donne clés de mise en pratique. Livre jumeau type pattern language/timeless way ?
+pourrait etre trouvé dans café alternatif de st-etienne, tours, café citoyen de lille.
+
+Bel objet.
+
+Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ?
+
+### Situationisme et création de nouvelles réalités dans le quotidien
+
 Les situationnistes avaient décrits et testés comment créer (via les situations, les détournements, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISMME)
+
+### Zones autonomes temporaires
 
 Hakim Bey en donnant un nom auto-explicite et en apportant une réflexion theorique sur ces "zones autonomes temporaires" a contribué à pousser plus loin ces pratiques. (ref TAZ) Creer des trous dans l'étoffe de la réalité, libérer des territoires dans l'espace, le temps et surtout l'imaginaire.
 
 ### Du "diner" à Burning Man.
 
+L'activisme n'est plus un enagement sacrificiel pour toute la vie, mais peut devenir un angagement ponctuel où les participants se rassemblent et se dispersent. (apero facebook)
+
 De nos jours l'activisme se transforme en Artivisme. Fini le militantisme triste, place au jeu et à la fête. La reflexion ne se conçoit plus sans action. un autre monde est possible, souhaitable, et les graines en sont déja la. (, ref UN NOUVEL ART DE MILITER, JOYEUX BORDEL)
 
 L'évènement par son ACTION PREFIGURATIVE devient un prototype du monde de demain, démontre la possiblité de faire autrement et rentre dans un mecanisme d'amélioration continue.
 
-L'activisme n'est plus un enagement sacrificiel pour toute la vie, mais peut devenir un angagement ponctuel où les participants se rassemblent et se dispersent. (apero facebook)
+Mieux ce processus commence a se faire en réseau global et decentralisé où chaque innovation est presque immédiatement reprise ailleurs. (article NETWORKED UTOPIA)
 
-## Disco soupe, #Occupy et les utopies en réseaux
+### Disco soupe, #Occupy et les utopies en réseaux
 
-
-
-Les evenements co-creatifs, vocabulaire du faire ensemble
+Histoire Disco Soupe: du sens, un evenement ludique, une culture propre (jeux de mots, visuels), une recette libre
 
 
-## Les patterns outils de cartographie des systemes complexes
+### Les evenements co-creatifs, vocabulaire du faire ensemble
 
-## Concevoir des 
+
+
+
+### Les patterns outils de cartographie des systemes complexes
+
+### Concevoir des evenements-actions-sens
 
 
 
