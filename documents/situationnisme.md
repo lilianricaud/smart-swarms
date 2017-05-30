@@ -195,3 +195,18 @@ Ensuite, les situationnistes refusent de se conformer à la routine militante, a
 Source : Emmanuel Guy et Laurence Le Bras (dir.), Guy Debord. Un art de la guerre, Bibliothèque nationale de France / Gallimard, 2013
 
 http://www.zones-subversives.com/guy-debord-po%C3%A8te-et-r%C3%A9volutionnaire
+
+
+## Vivre pleinement
+
+
+« Une action culturelle dans la culture ne saurait avoir pour but de traduire ou d’expliquer la vie, mais de l’élargir », souligne Guy Debord. La révolution doit transformer radicalement la vie quotidienne. « Avec l’exploitation de l’homme doivent mourir les passions, les compensations et les habitudes qui en étaient les produits. Il faut définir de nouveaux désirs, en rapport avec les possibilités d’aujourd’hui », estime Guy Debord. Il semble également déterminant de réaliser ses propres désirs ici et maintenant, afin d’alimenter le désir de révolution. **« Nous devons construire des ambiances nouvelles qui soient à la fois le produit et l’instrument de comportements nouveaux »**, poursuit le texte. L’expérimentation, la créativité, le jeu doivent permettre une émancipation révolutionnaire. 
+
+
+Guy Debord refuse la séparation entre les différentes formes d’expression artistique. « L’emploi de l’ensemble des arts et techniques, comme moyens concourant à une composition intégrale du milieu », définit l’urbanisme unitaire. Vivre pleinement devient le projet situationniste. « Le but le plus général doit être d’élargir la part non médiocre de la vie, d’en diminuer, autant qu’il est possible, les moments nuls », résume Guy Debord. **Le jeu doit passionner la vie mais se distingue de la compétition et des loisirs qui au contraire renforcent l’« abrutissement du prolétariat par des sous produits de l’idéologie mystificatrice et des goûts de la bourgeoisie ». Le jeu doit répandre une véritable révolution dans la vie quotidienne.** « Mais l’application de cette volonté de création ludique doit s’étendre à toutes les formes connues des rapports humains, et par exemple influencer l’évolution historique des sentiments comme l’amitié ou l’amour », explique Guy Debord. Tous les aspects de la vie doivent devenir un jeu.
+
+Source: Guy Debord, Rapport sur la construction des situations et sur les conditions de l'organisation et de l'action de la tendance situationniste internationale, 1957
+
+Guy Debord, Les situationnistes et les nouvelles formes d’action dans la politique ou l’art, 1963
+
+http://www.zones-subversives.com/article-critiquer-l-art-pour-passionner-la-vie-103079279.html
