@@ -55,7 +55,9 @@ Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de thé
 
 decrypter certains evenements clés pour montrer quels patterns ils contiennent.
 
-(ex disco soupe contient NEOLOGISME, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE.
+(ex disco soupe contient NEOLOGISME, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL).
+
+SUNDAY SOUPE
 
 
 
@@ -149,7 +151,7 @@ latin ou grec ou autre langue, fusionné et mis à jour/coloré dans la langue s
 
 #### Patterns
 
-faire un dossier avec fichiers individuels
+faire un dossier avec fichiers individuels.md
 
 - OBJECTIF PREPONDERANT
 - SENS
