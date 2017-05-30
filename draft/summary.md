@@ -50,11 +50,13 @@ pourrait etre trouvé dans café alternatif de st-etienne, tours, café citoyen 
 
 Bel objet.
 
-Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ?
+#### PATTERNS
+
+Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ? Ces MOTS-PATTERNS sont des versions particulières des mots qui renvoient à une description formalisée selon un cadre précis et décrivant une configuration, une pratique et dans une certaine mesure comment la mettre en place.
 
 ### Situationisme et création de nouvelles réalités dans le quotidien
 
-Les situationnistes avaient décrits et testés comment créer (via les situations, les détournements, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISMME)
+Les situationnistes avaient décrits et testés comment créer (via les situations, les détournements, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISME)
 
 ### Zones autonomes temporaires
 
@@ -72,17 +74,52 @@ Mieux ce processus commence a se faire en réseau global et decentralisé où ch
 
 ### Disco soupe, #Occupy et les utopies en réseaux
 
-Histoire Disco Soupe: du sens, un evenement ludique, une culture propre (jeux de mots, visuels), une recette libre
+### Quel est notre vocabulaire du faire ensemble ?
+
+La première étape est une sorte de satori - prendre conscience que la TAZ commence par le simple acte d'en prendre conscience"
+
+Si nous avions un langage pour décrire nos pratiques du faire ensemble et de la rencontre, quels en serait les mots que toustes comprendraient ?
+
+Quelles sont les rencontres, les rituels connus et qui n'ont pas besoin d'être definis pour être compris par toustes.
+
+- les fêtes religieuses, NOEL, PAQUES, ... 
+- les fêtes institutionnelles (FÊTE NATIONALE, ...) 
+- les rituels de la vie (BAPTEME, MARIAGE, ENTERREMENT) 
+- les évènements sportifs ou autres devenus immensement populaire parce que poussé par le marketing et les lobbies financiers (COUPES DU MONDE, HALLOWEEN...)
+- les rituels professionnels (REUNIONS, SEMINAIRES, CONFERENCES...).
+
+A coté certaines communautés de pratiques ont des vocabulaire specifiques (MINGA, BARNRAISING, )
 
 
-### Les evenements co-creatifs, vocabulaire du faire ensemble
+De quels patterns sont composés ces evenements ?
+
+### Les nouveaux evenements co-creatifs,
+
+#### Histoire Disco Soupe: du sens, un évènement ludique, une culture propre (jeux de mots, visuels), une recette libre
+
+#### Des indignés à Occupy à #NuitDebout
 
 
 
+#### Caractéristiques de ces nouveaux évènements co-créatifs
+
+- Les utopies se mettent en réseaux
+- centrés sur l'action
+- melent plusieurs objectifs
+- ludique, festifs
+
+
+## Theorie
 
 ### Les patterns outils de cartographie des systemes complexes
 
+Appliqués aux evenements, ils permettent de cartographier les bonnes pratiques presentes ou pas et leur inter-relations.
+
+-> enrichir les evenement existants, pas à pas, via un processus génératifs pour qu'ils soient multifonctions, interdiscilplinanire
+
 ### Concevoir des evenements-actions-sens
+
+### Principes de système stigmergique
 
 
 
