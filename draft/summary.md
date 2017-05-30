@@ -51,7 +51,11 @@ pourrait etre trouvé dans café alternatif de st-etienne, tours, café citoyen 
 Bel objet.
 Raconter une histoire pour que le contenus soit accessible et intuitivement perçu par les lecteurs. Est ce que l'histoire peut raconter le récit d'un héros qui est influencés par le situationnisme, les tazs et va plus loin en lançant des MOTS-BOMBES qui font exploser le sens et des MOTS-EVENEMENTS qui aggregent des ESSAIMS-INTELLIGENTS (opposés de FOULE STUPIDES ou les plus petits dénominateur gagne)
 
-Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de théorie.
+Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de théorie. montrer à chaque fois des exemple où ces patterns sont utilisés. 
+
+decrypter certains evenements clés pour montrer quels patterns ils contiennent.
+
+(ex disco soupe contient NEOLOGISME, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE.
 
 
 
@@ -135,7 +139,7 @@ Ambiguité entre la nécessité d'avoir un langage commun qui puisse servir d'ob
 
 Exemple du verlan récupéré.
 
-nécessité d'un équilibre entre un vocabulaire commun qui permet de se coordoner et un argot qui avance plus vite que la récupération. Utiliser les mots un certain temps mais être conscient que s'ils sont pris il faut s'en détourner comme des places occupés temporairement dans un action de guerilla.
+nécessité d'un équilibre entre un vocabulaire commun qui permet de se coordonner et un argot qui avance plus vite que la récupération. Utiliser les mots un certain temps mais être conscient que s'ils sont pris il faut s'en détourner comme des places occupés temporairement dans un action de guerilla.
 
 ### Inventer des mots
 
@@ -145,12 +149,20 @@ latin ou grec ou autre langue, fusionné et mis à jour/coloré dans la langue s
 
 #### Patterns
 
+faire un dossier avec fichiers individuels
+
 - OBJECTIF PREPONDERANT
 - SENS
 - ACTION PREFIGURATIVE
 - RECETTE LIBRE
 - SITE WEB / OUTILS DE COMMUNICATION
 - VOCABULAIRE GUERILLA
+- MOTS-BOMBES qui font exploser le sens 
+- MOTS-EVENEMENTS qui aggregent des ESSAIMS-INTELLIGENTS (opposés de FOULE STUPIDES où les plus petits dénominateur gagne)
+- NEOLOGISME/ARGOT
+- SITUTATIONS/ESPACETEMPS LIBERES
+- STIGMERGIE
+- LIMINALITE
 
 
 
