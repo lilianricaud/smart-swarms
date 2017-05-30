@@ -55,13 +55,27 @@ Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de thé
 
 decrypter certains evenements clés pour montrer quels patterns ils contiennent.
 
-(ex disco soupe contient NEOLOGISME, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL).
+DISCO SOUPE 
+
+contient 
+
+NEOLOGISME, CHARTE SIMPLE, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL).
 
 SUNDAY SOUPE
+
+contient PRESENTATION ECLAIR, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL
+
+HACKATHON
+
+IGNITE
+
+TED
 
 
 
 #### PATTERNS
+
+intro breve sur les patterns comme trame, outils de lecture et comprehension, importance de la codification, sorte de vocabulaire augmenté. usage dans le livre.
 
 Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ? Ces MOTS-PATTERNS sont des versions particulières des mots qui renvoient à une description formalisée selon un cadre précis et décrivant une configuration, une pratique et dans une certaine mesure comment la mettre en place.
 
