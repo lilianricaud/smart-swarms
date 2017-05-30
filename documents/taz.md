@@ -60,6 +60,7 @@ Et pourtant **puisque la carte est une abstraction, elle ne peut pas couvrir la 
 **Mais si la carte est fermée, la zone autonome reste ouverte.** Métaphoriquement, elle émerge de la dimension fractale invisible pour la cartographie du Contrôle. Ici, nous devrions introduire la notion de psychotopologie (et topographie) comme «science» alternative à celle de la surveillance et à la mise en carte étatique, à son «impérialisme psychique». Seule la psychotopographie peut produire des cartes 1:1 de la réalité, car seul l'esprit humain maîtrise la complexité nécessaire à sa modélisation. Mais une carte 1:1, virtuellement identique au territoire, ne peut pas contrôler celui-ci. Elle ne peut que suggérer, au sens d'indiquer, certaines de ses caractéristiques. **Nous recherchons des «espaces» (géographiques, sociaux-culturels, imaginaires) capables de s'épanouir en zones autonomes - et des espaces-temps durant lesquels ces zones sont relativement ouvertes, soit du fait de la négligence de l'État, soit qu'elles aient échappé aux arpenteurs ou pour quelqu'autre raison encore. La psychotopologie est l'art du sourcier des TAZs potentielles.**
 Cependant la clôture de la Révolution et de la carte du monde n'est que la source négative de la TAZ. Il reste beaucoup à dire de ses inspirations positives. La réaction seule ne peut fournir l'énergie requise pour qu'une TAZ se «manifeste». Le soulèvement doit aussi être pour quelque chose.
 
+(...)
 
 ## 2. La TAZ en tant que festival. 
 
