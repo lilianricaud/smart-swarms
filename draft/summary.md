@@ -40,16 +40,26 @@ PATTERNS
 LIMINALITY
 
 
+## résumé
 
-## Résumé
 
-### Intro / intention
+## Trame
+
+
+## Intro / intention
 
 manuel théorique et pratique: théorise et donne clés de mise en pratique. Livre jumeau type pattern language/timeless way ?
 pourrait etre trouvé dans café alternatif de st-etienne, tours, café citoyen de lille.
 
 Bel objet.
+
+### PARTIE 1 STORYTELLING
+
 Raconter une histoire pour que le contenus soit accessible et intuitivement perçu par les lecteurs. Est ce que l'histoire peut raconter le récit d'un héros qui est influencés par le situationnisme, les tazs et va plus loin en lançant des MOTS-BOMBES qui font exploser le sens et des MOTS-EVENEMENTS qui aggregent des ESSAIMS-INTELLIGENTS (opposés de FOULE STUPIDES ou les plus petits dénominateur gagne)
+
+Format: NOUVELLE risque de m'enliser dans l'écriture d'un ROMAN (trop long, complexe à écrire seul).
+
+### PARTIE 2: THEORIE 
 
 Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de théorie. montrer à chaque fois des exemple où ces patterns sont utilisés. 
 
@@ -71,6 +81,9 @@ IGNITE
 
 TED
 
+MINGA
+
+BOOKSPRINT
 
 
 #### PATTERNS
@@ -149,6 +162,8 @@ Appliqués aux evenements, ils permettent de cartographier les bonnes pratiques 
 
 La première étape est une sorte de satori - prendre conscience que la TAZ commence par le simple acte d'en prendre conscience"
 
+NOMMER ces formats intentionnels pour les distinguer des evenements banals sans intention particulière.
+
 ### Vocabulaire-guerilla
 
 Ambiguité entre la nécessité d'avoir un langage commun qui puisse servir d'objet social et le risque que ce vocabulaire soit récupéré (ex disco soupe ou coding gouter, récupéré et/ou vidé de leur sens). 
@@ -179,6 +194,8 @@ faire un dossier avec fichiers individuels.md
 - SITUTATIONS/ESPACETEMPS LIBERES
 - STIGMERGIE
 - LIMINALITE
+- ARCHITECTURES VISIBLES
+- ARCHITECTURES INVISIBLES
 
 
 
