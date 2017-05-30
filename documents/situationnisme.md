@@ -185,4 +185,13 @@ L’**urbanisme unitaire** refuse la séparation entre l’art et la ville. Mais
 
 Les situationnistes reprennent également les réflexions de Marx qui critique les critères de scientificité et d’objectivité. Guy Debord estime que c’est par l’action, et l’expérimentation de nouveaux styles de vie, qu’il est possible d’accéder à la connaissance. 
 
+Guy Debord ne se réduit pas à une pièce de musée. La démarche des situationnistes doit demeurer vivante. Ce mouvement se distingue des groupuscules gauchistes voire anarchistes qui se contentent d'asséner une idéologie poussiéreuse.
+
+Les situationnistes ne se contentent pas de dénoncer les dérives économiques du capitalisme. Ils critiquent l'emprise du capital sur tous les aspects de la vie. La révolution sociale doit alors déboucher vers un changement qualitatif de l'existence.
+
+Ensuite, les situationnistes refusent de se conformer à la routine militante, avec son esprit de sacrifice et son esthétique formatée. Guy Debord propose un rapport ludique à la politique révolutionnaire. Le détournement, la dérive, la créativité demeurent des armes révolutionnaires. Cette démarche permet d'expérimenter une vie passionante pour construire un monde qui repose sur le jeu et le plaisir. 
+
+ 
+Source : Emmanuel Guy et Laurence Le Bras (dir.), Guy Debord. Un art de la guerre, Bibliothèque nationale de France / Gallimard, 2013
+
 http://www.zones-subversives.com/guy-debord-po%C3%A8te-et-r%C3%A9volutionnaire
