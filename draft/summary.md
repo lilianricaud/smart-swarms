@@ -59,6 +59,10 @@ Raconter une histoire pour que le contenus soit accessible et intuitivement per�
 
 Format: NOUVELLE risque de m'enliser dans l'écriture d'un ROMAN (trop long, complexe à écrire seul).
 
+Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une action. ils utilisent un  format créatif pour réfléchir, un SPRINT D'ECRITURE pour rédiger. L'objectif lancer un débat qui i fasse discuter et réfléchir collectivement un groupe sur un sujet qui leur tient à coeur. ils choisissent un CERCLE SAMOAN et lance un appel avec un POURQUOI.
+
+-> rédiger cette nouvelle en mode BOOKSPRINT. 
+
 ### PARTIE 2: THEORIE 
 
 Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de théorie. montrer à chaque fois des exemple où ces patterns sont utilisés. 
