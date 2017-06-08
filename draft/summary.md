@@ -65,6 +65,10 @@ Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une a
 
 ### PARTIE 2: THEORIE 
 
+Dictionnaire du faire ensemble: des mots communs qui commencent à émerger (possibilité de devenir un standard comme urban dictionnary ou larousse ?)
+
+GRAMMAIRE: patterns et séquence génératives
+
 Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de théorie. montrer à chaque fois des exemple où ces patterns sont utilisés. 
 
 decrypter certains evenements clés pour montrer quels patterns ils contiennent.
@@ -154,6 +158,10 @@ auto-organisation centrée sur l'action sans coopération directe
 #### Un argot à inventer 
 
 comment les langues évoluent 
+
+#### Dictionnaire du faire ensemble
+
+#### Grammaire du faire ensemble
 
 
 #### Caractéristiques de ces nouveaux évènements co-créatifs
