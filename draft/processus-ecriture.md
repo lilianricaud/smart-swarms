@@ -1,5 +1,15 @@
 
+## CONGRUENCE
+
 Quels processus puis je utiliser pour écrire cet ouvrage en pratiquant ce que je prèche, ie en utilisant les outils moi-même les outils que je décris ?
+
+## PROCESSUS OUVERT
+
+visible, ouvert à la participation/contribution
+
+## START WITH WHY, FOLLOW BY HOW
+
+Commencer par clarifier le pourquoi, la raison d'être le sens de cet ouvrage et de sa rédaction, puis clarifier le COMMENT, le processus d'écriture utilisé. itérer entre les deux et laisser émerger le contenu (le QUOI)
 
 ## DES PATTERNS AUX DETAILS
 
