@@ -24,3 +24,7 @@ evaluer ce qu marche bien pour être dans une dynamique d'apprentissage/ameliora
 ## PATTERNS ET PROCESSUS GENERATIFS
 
 identifier les patterns (configuration) qu ivont bien et en parallèle ajuster/réfléchir au processus qui conduit à leur émergence.
+
+## THEORIE ET ACTION
+
+ne pas rester juste sur la théorie de l'écriture, mais s'appuyer sur l'actino et s'en servir pour nourrir l'action.
