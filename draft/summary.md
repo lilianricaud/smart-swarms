@@ -106,25 +106,9 @@ intro breve sur les patterns comme trame, outils de lecture et comprehension, im
 
 Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ? Ces MOTS-PATTERNS sont des versions particulières des mots qui renvoient à une description formalisée selon un cadre précis et décrivant une configuration, une pratique et dans une certaine mesure comment la mettre en place.
 
-### Situationisme et création de nouvelles réalités dans le quotidien
+### La difficulté à faire ensemble
 
-Les situationnistes avaient décrits et testés comment créer (via les situations, les détournements, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISME)
-
-### Zones autonomes temporaires
-
-Hakim Bey en donnant un nom auto-explicite et en apportant une réflexion theorique sur ces "zones autonomes temporaires" a contribué à pousser plus loin ces pratiques. (ref TAZ) Creer des trous dans l'étoffe de la réalité, libérer des territoires dans l'espace, le temps et surtout l'imaginaire.
-
-### Du "diner" à Burning Man.
-
-L'activisme n'est plus un enagement sacrificiel pour toute la vie, mais peut devenir un angagement ponctuel où les participants se rassemblent et se dispersent. (apero facebook)
-
-De nos jours l'activisme se transforme en Artivisme. Fini le militantisme triste, place au jeu et à la fête. La reflexion ne se conçoit plus sans action. un autre monde est possible, souhaitable, et les graines en sont déja la. (, ref UN NOUVEL ART DE MILITER, JOYEUX BORDEL)
-
-L'évènement par son ACTION PREFIGURATIVE devient un prototype du monde de demain, démontre la possiblité de faire autrement et rentre dans un mecanisme d'amélioration continue.
-
-Mieux ce processus commence a se faire en réseau global et decentralisé où chaque innovation est presque immédiatement reprise ailleurs. (article NETWORKED UTOPIA)
-
-### Disco soupe, #Occupy et les utopies en réseaux
+Se rassembler, se mettre d'accord, travailler pour un but commun et pas seulement contre quelque chose. Faire ensemble, s'organiser collectivement est un processus complexe. Traditionnellement à l'échelle du village ou dans les petits groupes où on se voit tous, c'est plus facile. Mais dès que l'on passe à l'échelle de dizaines ou centaines d'individus on entre dans une complexité énorme. Un des moyens pour s'organiser consiste à avoir des chefs d'orchestre plus ou moins donnerus d'ordre, 
 
 ### Quel est notre vocabulaire du faire ensemble ?
 
@@ -148,6 +132,37 @@ De quels patterns sont composés ces evenements ?
 #### Histoire Disco Soupe: du sens, un évènement ludique, une culture propre (jeux de mots, visuels), une recette libre
 
 #### Des indignés à Occupy à #NuitDebout
+
+### Situationisme et création de nouvelles réalités dans le quotidien
+
+Les situationnistes avaient décrits et testés comment créer (via les situations, les détournements, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISME)
+
+### Zones autonomes temporaires
+
+Hakim Bey en donnant un nom auto-explicite et en apportant une réflexion theorique sur ces "zones autonomes temporaires" a contribué à pousser plus loin ces pratiques. (ref TAZ) Creer des trous dans l'étoffe de la réalité, libérer des territoires dans l'espace, le temps et surtout l'imaginaire.
+
+### Du "diner" à Burning Man.
+
+L'activisme n'est plus un enagement sacrificiel pour toute la vie, mais peut devenir un angagement ponctuel où les participants se rassemblent et se dispersent. (apero facebook)
+
+De nos jours l'activisme se transforme en Artivisme. Fini le militantisme triste, place au jeu et à la fête. La reflexion ne se conçoit plus sans action. un autre monde est possible, souhaitable, et les graines en sont déja la. (, ref UN NOUVEL ART DE MILITER, JOYEUX BORDEL)
+
+L'évènement par son ACTION PREFIGURATIVE devient un prototype du monde de demain, démontre la possiblité de faire autrement et rentre dans un mecanisme d'amélioration continue.
+
+Mieux ce processus commence a se faire en réseau global et decentralisé où chaque innovation est presque immédiatement reprise ailleurs. (article NETWORKED UTOPIA)
+
+
+### Vers des flashmobs d'entraide mutuelle
+
+<a title="Flash Mobs" href="http://www.co-creative-recipes.cc/recipes/flash-mobs/">Flashmobs</a> have been used for artistic events or for giant drinks, could they be used for creative and productive action ? That's what Occupy Founder Micah White (<a href="https://twitter.com/BeingMicahWhite">@BeingMicahWhite</a>) believes:
+<blockquote>Inspired by the success of Occupy Sandy organizing efforts, The After Party also seeks to turn communities into self-sufficient hotbeds of social action. White and the After Party team want to create what they call “mutual aid flash mobs,” citizen gatherings where people can do things like start a time bank, plant urban gardens, fix local roads, organize free healthcare clinics, and build tiny houses for the homeless.
+
+via <a href="http://grist.org/politics/an-occupy-founder-says-the-next-revolution-will-be-rural/">An Occupy founder says the next revolution will be rural | Grist</a>.</blockquote>
+One obstacle to this happening is the lack of a shared vocabulary. Having standard recipes of mutual aid type of actions and a common vocabulary to describes these actions would make it much easier for groups to self organize around such <a title="Co-creative events as “social objects”" href="http://www.co-creative-recipes.cc/co-creative-events-as-social-objects/">positive social objects</a>.
+
+### Disco soupe, #Occupy et les utopies en réseaux
+
+
 
 innovation en réseau
 
