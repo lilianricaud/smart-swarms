@@ -5,15 +5,19 @@ Quels processus puis je utiliser pour écrire cet ouvrage en pratiquant ce que j
 
 ## PROCESSUS OUVERT
 
-visible, ouvert à la participation/contribution
+visible, ouvert à la participation/contribution, laisser des TRACES
 
 ## START WITH WHY, FOLLOW BY HOW
 
 Commencer par clarifier le pourquoi, la raison d'être le sens de cet ouvrage et de sa rédaction, puis clarifier le COMMENT, le processus d'écriture utilisé. itérer entre les deux et laisser émerger le contenu (le QUOI)
 
+## ECOSYSTEME DE COLLABORATION
+
+FAIRE AVEC pas faire pour
+
 ## DES PATTERNS AUX DETAILS
 
-clarifier les grandes sections qui ne vont pas bouger: utiliser MINDMAP, CARTES
+clarifier les grandes lilgnes qui ne vont pas bouger, puis affiner les détails au fur et à mesure : utiliser MINDMAP, CARTES, ITERATIONS
 
 ## SPRINTS
 
@@ -38,3 +42,13 @@ identifier les patterns (configuration) qu ivont bien et en parallèle ajuster/r
 ## THEORIE ET ACTION
 
 ne pas rester juste sur la théorie de l'écriture, mais s'appuyer sur l'actino et s'en servir pour nourrir l'action.
+
+## PENSEE VISUELLE
+
+## PLAISIR
+
+a faire
+
+## ECRITURE
+
+livre a priori, mais peut etre jeu de plateau, transmedia...
