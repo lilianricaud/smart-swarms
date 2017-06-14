@@ -142,21 +142,14 @@ Les situationnistes avaient décrits et testés comment créer (via les situatio
 ### Les événements comme outils de transformation culturelle et sociale
 
 
-Jay Cousins: les evenements changent le monde. Ils agissent commes des catalyseurs pour une transformation sociale et culturelle.
+Jay Cousins: les evenements changent le monde. Ils agissent comme catalyseurs de transformation sociale et culturelle.
 
-Les évenements peuvent amener de profonds changements comportementaux et organisationels.
+Les évenements peuvent amener de profonds changements comportementaux et organisationels. Si vous demandez à des personnes de faire un changement permanent, elles vont résistez. Mais si vous leur demandez d'essayer quelque chose pour 5 minutes, une heure, un jour, ou une semaine, le changement est moins menaçant. C'est un test, plus acceptable. Il permet ensuite aux personnes de faire un choix informé, plutôt qu'un choix basé sur leurs peurs.
 
-Jay Cousins: "Events change the world. They act as catalysts for Social and Cultural Transformation.
+Aucun changement n'est jamais permanent, pourtant un changement qui est explicitement temporaire est plus facile à amorcer. Les événements vous permettent de prototyper la nouveauté à court terme pour que vous puissiez créer un changement soutenable et durable sur le long terme.
 
-Events can bring about profound behavioral and organisational changes. If you ask someone to make a permanent change in behavior they will resist. But, if you ask for them to try something out for 5 minutes, an hour, a day, or a week then the change is less threatening. It’s a taster, more acceptable. It then allows people to make an informed choice, rather than one based on their fears.
 
-No change is ever permanent, however one which is explicitly temporary is much easier to instigate. Events allow you to prototype the new in the short term, so you can create lasting and sustainable change in the long term. Events change the world. They act as catalysts for Social and Cultural Transformation.
 
-Events can bring about profound behavioral and organisational changes. If you ask someone to make a permanent change in behavior they will resist. But, if you ask for them to try something out for 5 minutes, an hour, a day, or a week then the change is less threatening. It’s a taster, more acceptable. It then allows people to make an informed choice, rather than one based on their fears.
-
-No change is ever permanent, however one which is explicitly temporary is much easier to instigate. Events allow you to prototype the new in the short term, so you can create lasting and sustainable change in the long term."
-
-https://jaycousins.wordpress.com/transformative-events/
 
 ### Zones autonomes temporaires
 
