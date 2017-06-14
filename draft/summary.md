@@ -144,6 +144,8 @@ Les situationnistes avaient décrits et testés comment créer (via les situatio
 
 Jay Cousins: les evenements changent le monde. Ils agissent commes des catalyseurs pour une transformation sociale et culturelle.
 
+Les évenements peuvent amener de profonds changements comportementaux et organisationels.
+
 Jay Cousins: "Events change the world. They act as catalysts for Social and Cultural Transformation.
 
 Events can bring about profound behavioral and organisational changes. If you ask someone to make a permanent change in behavior they will resist. But, if you ask for them to try something out for 5 minutes, an hour, a day, or a week then the change is less threatening. It’s a taster, more acceptable. It then allows people to make an informed choice, rather than one based on their fears.
