@@ -13,5 +13,5 @@ les syndicats et les partis insistent sur l’organisation patiemment encadrée 
 
 Les mouvement passés s’appuient sur une émotion comme l’exaspération et la colère. De plus en plus ils s'appuieront sur une envie commune de construire des choses.
 
-
+une action devient politique uniquement si elle s’inscrit dans un projet d’émancipation collective. 
 
