@@ -65,6 +65,12 @@ Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une a
 
 ### PARTIE 2: THEORIE 
 
+Analyse et mise en perspective.
+
+
+
+### PARTIE 3 LEXIQUE
+
 Dictionnaire du faire ensemble: des mots communs qui commencent à émerger (possibilité de devenir un standard comme urban dictionnary ou larousse ?)
 
 GRAMMAIRE: patterns et séquence génératives
@@ -72,6 +78,8 @@ GRAMMAIRE: patterns et séquence génératives
 Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de théorie. montrer à chaque fois des exemple où ces patterns sont utilisés. 
 
 decrypter certains evenements clés pour montrer quels patterns ils contiennent.
+
+### PARTIE 4 RECETTES
 
 DISCO SOUPE 
 
@@ -137,7 +145,7 @@ De quels patterns sont composés ces evenements ?
 
 ### Situationisme et création de nouvelles réalités dans le quotidien
 
-Les situationnistes avaient décrits et testés comment créer (via les situations, les détournements, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISME)
+Les situationnistes avaient décrits et testés comment créer (via les situations, les DETOURNEMENTs, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISME)
 
 ### Les événements comme outils de transformation culturelle et sociale
 
