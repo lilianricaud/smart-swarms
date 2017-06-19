@@ -67,6 +67,8 @@ Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une a
 
 Analyse et mise en perspective.
 importance du processus et pas seulement de la fin en soi (transformation sociale sans retrospective = martyre)
+De l'objectif révolutionnaire au processus révolutionnaire
+de faiseur à facilitateur
 
 
 ### PARTIE 3 LEXIQUE
