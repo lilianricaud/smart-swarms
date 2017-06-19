@@ -66,7 +66,7 @@ Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une a
 ### PARTIE 2: THEORIE 
 
 Analyse et mise en perspective.
-
+importance du processus et pas seulement de la fin en soi (transformation sociale sans retrospective = martyre)
 
 
 ### PARTIE 3 LEXIQUE
@@ -113,6 +113,18 @@ RITUEL RELIGIEUX/TRADITIONNEL
 intro breve sur les patterns comme trame, outils de lecture et comprehension, importance de la codification, sorte de vocabulaire augmenté. usage dans le livre.
 
 Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ? Ces MOTS-PATTERNS sont des versions particulières des mots qui renvoient à une description formalisée selon un cadre précis et décrivant une configuration, une pratique et dans une certaine mesure comment la mettre en place.
+
+Patterns des differents mouvements ou bien aggreger tout dans un seul volume pour simplifier
+
+##### occupy
+
+#####  situtationnistes: 
+
+DETOURNEMENT, CRITIQUE DE LA VIE QUOTIDIENNE, FÊTE REVOLUTIONNAIRE, (ORGANISATION DE THÉORICIENS), JEU, UTOPIE CREATRICE
+
+##### Education populaire, theatre impro, art of hosting
+
+dans patterns ou recettes ?
 
 ### La difficulté à faire ensemble
 
