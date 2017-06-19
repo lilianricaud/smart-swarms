@@ -176,7 +176,7 @@ One obstacle to this happening is the lack of a shared vocabulary. Having standa
 
 ### Disco soupe, #Occupy et les utopies en réseaux
 
-
+Occupy: un prototype_du_renouveau_politique.md
 
 innovation en réseau
 
