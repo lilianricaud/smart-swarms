@@ -1,5 +1,8 @@
 # Situationnisme
 
+**L’art, la poésie, la créativité, le jeu doivent permettre de construire une vie passionnante. « La révolution, pour les situationnistes, c’est avant tout la réalisation d’une immense fête où la transformation du monde s’accompagne d’une changement radical et total de la vie, enfin réellement vécue », souligne Pascal Dumontier.**
+
+
 ## Définition de situationnisme
 
 source: http://www.toupie.org/Dictionnaire/Situationnisme.htm
