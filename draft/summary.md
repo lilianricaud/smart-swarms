@@ -132,6 +132,13 @@ dans patterns ou recettes ?
 
 Se rassembler, se mettre d'accord, travailler pour un but commun et pas seulement contre quelque chose. Faire ensemble, s'organiser collectivement est un processus complexe. Traditionnellement à l'échelle du village ou dans les petits groupes où on se voit tous, c'est plus facile. Mais dès que l'on passe à l'échelle de dizaines ou centaines d'individus on entre dans une complexité énorme. Un des moyens pour s'organiser consiste à avoir des chefs d'orchestre plus ou moins donnerus d'ordre, 
 
+### L'importance d'un langage partagé
+
+Développer un langage partagé est un pre-requis pour la collaboration.
+
+Certains processus de facilitation comme MGTaylor’s commencent par une longue série d'exercices conçus pour développer un langage partagé à travers un groupe. Le processus frustre souvent le participants qui ont l'impression de ne rien faire ou qu'ils ne sont pas productifs. Le fait est que, sans passer par cette étape il est impossible pour les groupes d'accomplir quelque chose ou d'être productif. La plupart des participants réalisent ceci à la fin.
+
+
 ### Quel est notre vocabulaire du faire ensemble ?
 
 Si nous avions un langage pour décrire nos pratiques du faire ensemble et de la rencontre, quels en serait les mots que toustes comprendraient ?
