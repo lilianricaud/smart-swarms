@@ -118,21 +118,14 @@ Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détac
 
 Patterns des differents mouvements ou bien aggreger tout dans un seul volume pour simplifier
 
-##### occupy
 
-#####  situtationnistes: 
-
-DETOURNEMENT, CRITIQUE DE LA VIE QUOTIDIENNE, FÊTE REVOLUTIONNAIRE, (ORGANISATION DE THÉORICIENS), JEU, UTOPIE CREATRICE
-
-##### Education populaire, theatre impro, art of hosting
-
-dans patterns ou recettes ?
 
 ### La difficulté à faire ensemble
 
 Se rassembler, se mettre d'accord, travailler pour un but commun et pas seulement contre quelque chose. Faire ensemble, s'organiser collectivement est un processus complexe. Traditionnellement à l'échelle du village ou dans les petits groupes où on se voit tous, c'est plus facile. Mais dès que l'on passe à l'échelle de dizaines ou centaines d'individus on entre dans une complexité énorme. Un des moyens pour s'organiser consiste à avoir des chefs d'orchestre plus ou moins donnerus d'ordre, 
 
 ### Le langage comme outil pour penser le monde
+
 Le langage est un outil de traitement de l'information. Sans langage, nous pourrions penser, mais mettre des mots ou des expression sur des concepts nous aide à les expliciter et à les manipuler.
 
 ### Le langage comme outil de coordination
@@ -145,7 +138,7 @@ Avoir de nombreux permet de décrire plus finement la réalité de notre quotidi
 
 ### Les mots comme filtres/lentilles pour voir le monde
 
-Les mots utilisés, "l'étiquette lexicale" choisie n'est pas neutre. les mots portent avec eux une culture et des valeurs implicites. Par 
+Les mots utilisés, "l'étiquette lexicale" choisie n'est pas neutre. les mots portent avec eux une culture et des valeurs implicites. Par exemple l'expression "ressources humaines" porte une certain vision du monde.
 
 
 
@@ -168,7 +161,11 @@ donne du pouvoir d'agir
 
 Dans le livre 1984 Georges Orwell narrait avec brio comment le langage appauvri ne permettait pas à ses locuteurs de d'utiliser des nuances dans leur langage (l'exemple de "bon" et son opposé "inbon", sous entendu en accord avec les lignes du parti ou pas, force à voir le monde de manière binaire (il n'y a que deux choix possibles). "Vous êtes avec nous ou contre nous" (sous-entendu avec les terroristes/ennemis de la liberté) aurait dit Georges W. Bush, ne laissant aucune autre choix possible.
 
-A l'inverse
+La novlangue de 1984 nous ote du pouvoir de discerner des nuances et donc du pouvoir d'agir.
+
+Reférénce: ateliers de desintoxication de la langue de bois
+
+A l'inverse un langage capacitant, nous donnerait du pouvoir d'agir
 
 ### Quel est notre vocabulaire du faire ensemble ?
 
@@ -189,7 +186,15 @@ De quels patterns sont composés ces evenements ?
 
 ### Les nouveaux evenements co-creatifs,
 
+##### occupy
 
+#####  situtationnistes: 
+
+DETOURNEMENT, CRITIQUE DE LA VIE QUOTIDIENNE, FÊTE REVOLUTIONNAIRE, (ORGANISATION DE THÉORICIENS), JEU, UTOPIE CREATRICE
+
+##### Education populaire, theatre impro, art of hosting
+
+dans patterns ou recettes ?
 
 #### Histoire Disco Soupe: du sens, un évènement ludique, une culture propre (jeux de mots, visuels), une recette libre
 
@@ -227,6 +232,15 @@ Mieux ce processus commence a se faire en réseau global et decentralisé où ch
 
 
 ### Vers des flashmobs d'entraide mutuelle
+
+Les FLASHMOBS (litéralement "foules éclairs") sont un groupe de gens qui se rassemble soudainement dans un espace public et joue une actions inhabituelle et souvent insensée pour un temps court avant de se disperser.
+
+L'objectif d'une flashmob est souvent pour l'amusement, la satire ou l'expression artistique. Les flashmob sont organisées via des outils de communication moderne (réseaux sociaux, mails viraux, ...)
+
+Le terme apparu en 2003, n is generally not applied to events and performances organized for the purposes of politics (such as protests),
+
+
+sont une des application inattendues des nouveaux outils de communication. ont été utilisées pour des évènements artistique
 
 <a title="Flash Mobs" href="http://www.co-creative-recipes.cc/recipes/flash-mobs/">Flashmobs</a> have been used for artistic events or for giant drinks, could they be used for creative and productive action ? That's what Occupy Founder Micah White (<a href="https://twitter.com/BeingMicahWhite">@BeingMicahWhite</a>) believes:
 <blockquote>Inspired by the success of Occupy Sandy organizing efforts, The After Party also seeks to turn communities into self-sufficient hotbeds of social action. White and the After Party team want to create what they call “mutual aid flash mobs,” citizen gatherings where people can do things like start a time bank, plant urban gardens, fix local roads, organize free healthcare clinics, and build tiny houses for the homeless.
