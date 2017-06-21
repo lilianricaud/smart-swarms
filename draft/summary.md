@@ -303,11 +303,13 @@ innovation = progrès sans la vision humaniste, mais a visée commerciale.
 
 On peut regretter cette récupération des mots, on peut la combattre pour leur redonner du sens et vouloir que "démocratie" signifie de nouveau "pouvoir du peuple".
 
+patrick viveret propose de repartir du sens originel de certains mots pour les hacker
+
 bénéfice ce qui fait du bien : contraire méfait
 
 Payer = pacare = faire la paix => l'économie doit être pacificatrice pour avoir une valeur ajoutée
 
-patrick viveret
+
 
 A mon sens cette quète est vaine, ou en tout cas elle n'est pas suffisante. Le bombardement médiatique a déja trop abimé ces mots pour qu'il soit facilement recuperable.
 
@@ -386,5 +388,7 @@ faire un dossier avec fichiers individuels.md
 
 ### Principes de système stigmergique
 
+
+### L'approche du hacker
 
 
