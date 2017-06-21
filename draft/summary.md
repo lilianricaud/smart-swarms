@@ -120,71 +120,7 @@ Patterns des differents mouvements ou bien aggreger tout dans un seul volume pou
 
 
 
-### La difficulté à faire ensemble
 
-Se rassembler, se mettre d'accord, travailler pour un but commun et pas seulement contre quelque chose. Faire ensemble, s'organiser collectivement est un processus complexe. Traditionnellement à l'échelle du village ou dans les petits groupes où on se voit tous, c'est plus facile. Mais dès que l'on passe à l'échelle de dizaines ou centaines d'individus on entre dans une complexité énorme. Un des moyens pour s'organiser consiste à avoir des chefs d'orchestre plus ou moins donnerus d'ordre, 
-
-### Le langage comme outil pour penser le monde
-
-Le langage est un outil de traitement de l'information. Sans langage, nous pourrions penser, mais mettre des mots ou des expression sur des concepts nous aide à les expliciter et à les manipuler.
-
-### Le langage comme outil de coordination
-
-Le langage est un outil de coordination sociale. Sans langage il serait beaucoup plus difficile de partager nos representations et nos idées avec d'autres et donc de nous coordonner.
-
-Une culture qui dispose d'un seul mot pour exprimer une idée qui ne peut être découpée dans une autre langue est plus "efficace" pour ce mot qu'un langue qui a besoin de plusieurs mots pour exprimer la même idée.
-
-Avoir de nombreux permet de décrire plus finement la réalité de notre quotidien. Pour autant une langue qui aurait une infinité de mots pour décrire les moindres détails serait trop complexe
-
-### Les mots comme filtres/lentilles pour voir le monde
-
-Les mots utilisés, "l'étiquette lexicale" choisie n'est pas neutre. les mots portent avec eux une culture et des valeurs implicites. Par exemple l'expression "ressources humaines" porte une certain vision du monde.
-
-
-
-
-### L'importance d'expliciter les choses
-
-Tout ce qui est implicite et donc pas précisément défini peut amèner une ambiguité.Une certaine ambiguité peut être parfois utile dans une certaine mesure, mais globalement amène du flou.
-
-Dans un groupe il peut y avoir autant d'interprétations que d'individus, il est donc essentiel pour se comprendre de bien expliciter les choses.
-
-### L'importance d'un langage partagé
-
-Développer un langage partagé est un pre-requis pour la collaboration.
-
-Certains processus de facilitation comme MGTaylor’s commencent par une longue série d'exercices conçus pour développer un langage partagé à travers un groupe. Le processus frustre souvent le participants qui ont l'impression de ne rien faire ou qu'ils ne sont pas productifs. Le fait est que, sans passer par cette étape il est impossible pour les groupes d'accomplir quelque chose ou d'être productif. La plupart des participants réalisent ceci à la fin.
-
-### Langage capacitant
-
-donne du pouvoir d'agir
-
-Dans le livre 1984 Georges Orwell narrait avec brio comment le langage appauvri ne permettait pas à ses locuteurs de d'utiliser des nuances dans leur langage (l'exemple de "bon" et son opposé "inbon", sous entendu en accord avec les lignes du parti ou pas, force à voir le monde de manière binaire (il n'y a que deux choix possibles). "Vous êtes avec nous ou contre nous" (sous-entendu avec les terroristes/ennemis de la liberté) aurait dit Georges W. Bush, ne laissant aucune autre choix possible.
-
-La novlangue de 1984 nous ote du pouvoir de discerner des nuances et donc du pouvoir d'agir.
-
-Reférénce: ateliers de desintoxication de la langue de bois
-
-A l'inverse un langage capacitant, nous donnerait du pouvoir d'agir
-
-### Quel est notre vocabulaire du faire ensemble ?
-
-Si nous avions un langage pour décrire nos pratiques du faire ensemble et de la rencontre, quels en serait les mots que toustes comprendraient ?
-
-Quelles sont les rencontres, les rituels connus et qui n'ont pas besoin d'être definis pour être compris par toustes.
-
-- les fêtes religieuses, NOEL, PAQUES, ... 
-- les fêtes institutionnelles (FÊTE NATIONALE, ...) 
-- les rituels de la vie (BAPTEME, MARIAGE, ENTERREMENT) 
-- les évènements sportifs ou autres devenus immensement populaire parce que poussé par le marketing et les lobbies financiers (COUPES DU MONDE, HALLOWEEN...)
-- les rituels professionnels (REUNIONS, SEMINAIRES, CONFERENCES...).
-
-A coté certaines communautés de pratiques ont des vocabulaire specifiques (MINGA, BARNRAISING, )
-
-
-De quels patterns sont composés ces evenements ?
-
-### Les nouveaux evenements co-creatifs,
 
 ##### occupy
 
@@ -276,12 +212,108 @@ NuitDebout
 
 les 
 
+### La difficulté à faire ensemble
+
+Se rassembler, se mettre d'accord, travailler pour un but commun et pas seulement contre quelque chose. Faire ensemble, s'organiser collectivement est un processus complexe. Traditionnellement à l'échelle du village ou dans les petits groupes où on se voit tous, c'est plus facile. Mais dès que l'on passe à l'échelle de dizaines ou centaines d'individus on entre dans une complexité énorme. Un des moyens pour s'organiser consiste à avoir des chefs d'orchestre plus ou moins donnerus d'ordre, 
+
+### Le langage comme outil pour penser le monde
+
+Le langage est un outil de traitement de l'information. Sans langage, nous pourrions penser, mais mettre des mots ou des expression sur des concepts nous aide à les expliciter et à les manipuler.
+
+### Le langage comme outil de coordination
+
+Le langage est un outil de coordination sociale. Sans langage il serait beaucoup plus difficile de partager nos representations et nos idées avec d'autres et donc de nous coordonner.
+
+Une culture qui dispose d'un seul mot pour exprimer une idée qui ne peut être découpée dans une autre langue est plus "efficace" pour ce mot qu'un langue qui a besoin de plusieurs mots pour exprimer la même idée.
+
+Avoir de nombreux permet de décrire plus finement la réalité de notre quotidien. Pour autant une langue qui aurait une infinité de mots pour décrire les moindres détails serait trop complexe
+
+### Les mots comme filtres/lentilles pour voir le monde
+
+Les mots utilisés, "l'étiquette lexicale" choisie n'est pas neutre. les mots portent avec eux une culture et des valeurs implicites. Par exemple l'expression "ressources humaines" porte une certain vision du monde.
+
+
+
+
+### L'importance d'expliciter les choses
+
+Tout ce qui est implicite et donc pas précisément défini peut amèner une ambiguité.Une certaine ambiguité peut être parfois utile dans une certaine mesure, mais globalement amène du flou.
+
+Dans un groupe il peut y avoir autant d'interprétations que d'individus, il est donc essentiel pour se comprendre de bien expliciter les choses.
+
+### L'importance d'un langage partagé
+
+Développer un langage partagé est un pre-requis pour la collaboration.
+
+Certains processus de facilitation comme MGTaylor’s commencent par une longue série d'exercices conçus pour développer un langage partagé à travers un groupe. Le processus frustre souvent le participants qui ont l'impression de ne rien faire ou qu'ils ne sont pas productifs. Le fait est que, sans passer par cette étape il est impossible pour les groupes d'accomplir quelque chose ou d'être productif. La plupart des participants réalisent ceci à la fin.
+
+### Langage capacitant
+
+donne du pouvoir d'agir
+
+Dans le livre 1984 Georges Orwell narrait avec brio comment le langage appauvri ne permettait pas à ses locuteurs de d'utiliser des nuances dans leur langage (l'exemple de "bon" et son opposé "inbon", sous entendu en accord avec les lignes du parti ou pas, force à voir le monde de manière binaire (il n'y a que deux choix possibles). "Vous êtes avec nous ou contre nous" (sous-entendu avec les terroristes/ennemis de la liberté) aurait dit Georges W. Bush, ne laissant aucune autre choix possible.
+
+La novlangue de 1984 nous ote du pouvoir de discerner des nuances et donc du pouvoir d'agir.
+
+Reférénce: ateliers de desintoxication de la langue de bois
+
+A l'inverse un langage capacitant, nous donnerait du pouvoir d'agir
+
+### Quel est notre vocabulaire du faire ensemble ?
+
+Si nous avions un langage pour décrire nos pratiques du faire ensemble et de la rencontre, quels en serait les mots que toustes comprendraient ?
+
+Quelles sont les rencontres, les rituels connus et qui n'ont pas besoin d'être definis pour être compris par toustes.
+
+- les fêtes religieuses, NOEL, PAQUES, ... 
+- les fêtes institutionnelles (FÊTE NATIONALE, ...) 
+- les rituels de la vie (BAPTEME, MARIAGE, ENTERREMENT) 
+- les évènements sportifs ou autres devenus immensement populaire parce que poussé par le marketing et les lobbies financiers (COUPES DU MONDE, HALLOWEEN...)
+- les rituels professionnels (REUNIONS, SEMINAIRES, CONFERENCES...).
+
+A coté certaines communautés de pratiques ont des vocabulaire specifiques (MINGA, BARNRAISING, )
+
+
+De quels patterns sont composés ces evenements ?
+
+### Les nouveaux evenements co-creatifs,
 
 
 
 
 
-#### Un argot à inventer 
+### Un argot à inventer 
+
+langue standard à inventer pour mieux s'entendre puis à détruire pour le remplacer par des argots et des accents locaux afin de conserver les identités, les specificités, les différences, et d'éviter d'être récupéré par le systeme.
+
+### De la guerre des mots 
+
+
+
+Il semble que le système soit capable de récupérer n'importe quel mot et à grand renfort de "communication" vider les mots de leur sens et réimprimer un nouveau sens, parfois même opposé à l'esprit d'orgine. L'exemple du mot "communication" qui au départ sous entendait un échange entre deux partie et est aujourd'hui devenu synonyme de propagande d'un emetteur vers des récepteurs.
+
+démocratie ou mieux "démocratie participative", si la démocratie était réallement participative on n'aurait pas besoin de préciser.
+
+innovation = progrès sans la vision humaniste, mais a visée commerciale.
+
+
+
+
+### Guerilla Ontologique
+
+On peut regretter cette récupération des mots, on peut la combattre pour leur redonner du sens et vouloir que "démocratie" signifie de nouveau "pouvoir du peuple".
+
+bénéfice ce qui fait du bien : contraire méfait
+
+Payer = pacare = faire la paix => l'économie doit être pacificatrice pour avoir une valeur ajoutée
+
+patrick viveret
+
+A mon sens cette quète est vaine, ou en tout cas elle n'est pas suffisante. Le bombardement médiatique a déja trop abimé ces mots pour qu'il soit facilement recuperable.
+
+Mieux vaut penser le langage en mode guerilla, occuper les mots temporairement, s'en servir pour se reconnaitre entre initiés, sous groupe, déjouer la détection jusqu'a ce que ce ne soit plus possible et alors abandonner le mots pour en trouver d'autres.
+
+Comme une sorte de jeu de chat et souris, cette guerilla ontologique
 
 comment les langues évoluent 
 
