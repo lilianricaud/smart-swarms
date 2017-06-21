@@ -233,19 +233,19 @@ Mieux ce processus commence a se faire en réseau global et decentralisé où ch
 
 ### Vers des flashmobs d'entraide mutuelle
 
-Les FLASHMOBS (litéralement "foules éclairs") sont un groupe de gens qui se rassemble soudainement dans un espace public et joue une actions inhabituelle et souvent insensée pour un temps court avant de se disperser.
+Application inattendues des nouveaux outils de communication, les FLASHMOBS (litéralement "foules éclairs") sont un groupe de gens qui se rassemble soudainement dans un espace public et joue une actions inhabituelle et souvent insensée pour un temps court avant de se disperser.
 
 L'objectif d'une flashmob est souvent pour l'amusement, la satire ou l'expression artistique. Les flashmob sont organisées via des outils de communication moderne (réseaux sociaux, mails viraux, ...)
 
-Le terme apparu en 2003, n is generally not applied to events and performances organized for the purposes of politics (such as protests),
 
+Les flashmobs ont été utilisées pour des évènements artistiques, des apéros géants. Pourraient elles être utilisées pour des actions créatives ou productives ?
 
-sont une des application inattendues des nouveaux outils de communication. ont été utilisées pour des évènements artistique
+C'est ce que croit l'activite Micah White (@BeingMicahWhite)
 
-<a title="Flash Mobs" href="http://www.co-creative-recipes.cc/recipes/flash-mobs/">Flashmobs</a> have been used for artistic events or for giant drinks, could they be used for creative and productive action ? That's what Occupy Founder Micah White (<a href="https://twitter.com/BeingMicahWhite">@BeingMicahWhite</a>) believes:
-<blockquote>Inspired by the success of Occupy Sandy organizing efforts, The After Party also seeks to turn communities into self-sufficient hotbeds of social action. White and the After Party team want to create what they call “mutual aid flash mobs,” citizen gatherings where people can do things like start a time bank, plant urban gardens, fix local roads, organize free healthcare clinics, and build tiny houses for the homeless.
+Inspiré par le succès des efforts d'Occupy Sandy (une action d'aide lancé par des activites du mouvement Occupy), l'After Party cherche à tourner les communautés en groupe autosuffisant d'action sociale. White et l'équipe de l'After Party pensent que des "flashmobs d'aide mutuelle", des rassemblement citoyens où les gens peuvent faire des choses comme commencer une banque de temps, plant des jardins urbains, réparer les routes locales, organiser des cerntre de soins gratuits et batir de petites maisons pour les sans-abris.
+ 
 
-via <a href="http://grist.org/politics/an-occupy-founder-says-the-next-revolution-will-be-rural/">An Occupy founder says the next revolution will be rural | Grist</a>.</blockquote>
+Référence: <a href="http://grist.org/politics/an-occupy-founder-says-the-next-revolution-will-be-rural/">An Occupy founder says the next revolution will be rural | Grist</a>.</blockquote>
 One obstacle to this happening is the lack of a shared vocabulary. Having standard recipes of mutual aid type of actions and a common vocabulary to describes these actions would make it much easier for groups to self organize around such <a title="Co-creative events as “social objects”" href="http://www.co-creative-recipes.cc/co-creative-events-as-social-objects/">positive social objects</a>.
 
 ### Disco soupe, #Occupy et les utopies en réseaux
