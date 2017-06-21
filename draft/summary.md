@@ -147,9 +147,14 @@ Avoir de nombreux permet de décrire plus finement la réalité de notre quotidi
 
 Les mots utilisés, "l'étiquette lexicale" choisie n'est pas neutre. les mots portent avec eux une culture et des valeurs implicites. Par 
 
-### Langage capacitant
 
 
+
+### L'importance d'expliciter les choses
+
+Tout ce qui est implicite et donc pas précisément défini peut amèner une ambiguité.Une certaine ambiguité peut être parfois utile dans une certaine mesure, mais globalement amène du flou.
+
+Dans un groupe il peut y avoir autant d'interprétations que d'individus, il est donc essentiel pour se comprendre de bien expliciter les choses.
 
 ### L'importance d'un langage partagé
 
@@ -157,9 +162,13 @@ Développer un langage partagé est un pre-requis pour la collaboration.
 
 Certains processus de facilitation comme MGTaylor’s commencent par une longue série d'exercices conçus pour développer un langage partagé à travers un groupe. Le processus frustre souvent le participants qui ont l'impression de ne rien faire ou qu'ils ne sont pas productifs. Le fait est que, sans passer par cette étape il est impossible pour les groupes d'accomplir quelque chose ou d'être productif. La plupart des participants réalisent ceci à la fin.
 
-### L'importance d'expliciter les choses
+### Langage capacitant
 
-Une certaine ambiguité peut être parfois utile dans une certaine mesure, mais globalement amène du flou
+donne du pouvoir d'agir
+
+Dans le livre 1984 Georges Orwell narrait avec brio comment le langage appauvri ne permettait pas à ses locuteurs de d'utiliser des nuances dans leur langage (l'exemple de "bon" et son opposé "inbon", sous entendu en accord avec les lignes du parti ou pas, force à voir le monde de manière binaire (il n'y a que deux choix possibles). "Vous êtes avec nous ou contre nous" (sous-entendu avec les terroristes/ennemis de la liberté) aurait dit Georges W. Bush, ne laissant aucune autre choix possible.
+
+A l'inverse
 
 ### Quel est notre vocabulaire du faire ensemble ?
 
