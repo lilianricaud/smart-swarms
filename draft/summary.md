@@ -258,6 +258,29 @@ innovation en réseau
 
 auto-organisation centrée sur l'action sans coopération directe
 
+
+Une caractéristique clés est tres importante de ces nouveaux évènements est leur capacité à se dupliquer sans organisation centrale.
+
+En france, comparaison entre le mouvement Transition citoyenne (centralisé et portée par de grand collectifs associés) et le mouvement alternatiba mouvement ascendant et decentralisée est sans appel.
+
+Comme si collectivement l'évènement se réplicait et infectait d'autre endroits
+
+
+Hackathon
+Forum ouvert
+Disco Soupe
+Occupy
+NuitDebout
+
+#### Mêmes
+
+les 
+
+
+
+
+
+
 #### Un argot à inventer 
 
 comment les langues évoluent 
