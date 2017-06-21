@@ -132,12 +132,34 @@ dans patterns ou recettes ?
 
 Se rassembler, se mettre d'accord, travailler pour un but commun et pas seulement contre quelque chose. Faire ensemble, s'organiser collectivement est un processus complexe. Traditionnellement à l'échelle du village ou dans les petits groupes où on se voit tous, c'est plus facile. Mais dès que l'on passe à l'échelle de dizaines ou centaines d'individus on entre dans une complexité énorme. Un des moyens pour s'organiser consiste à avoir des chefs d'orchestre plus ou moins donnerus d'ordre, 
 
+### Le langage comme outil pour penser le monde
+Le langage est un outil de traitement de l'information. Sans langage, nous pourrions penser, mais mettre des mots ou des expression sur des concepts nous aide à les expliciter et à les manipuler.
+
+### Le langage comme outil de coordination
+
+Le langage est un outil de coordination sociale. Sans langage il serait beaucoup plus difficile de partager nos representations et nos idées avec d'autres et donc de nous coordonner.
+
+Une culture qui dispose d'un seul mot pour exprimer une idée qui ne peut être découpée dans une autre langue est plus "efficace" pour ce mot qu'un langue qui a besoin de plusieurs mots pour exprimer la même idée.
+
+Avoir de nombreux permet de décrire plus finement la réalité de notre quotidien. Pour autant une langue qui aurait une infinité de mots pour décrire les moindres détails serait trop complexe
+
+### Les mots comme filtres/lentilles pour voir le monde
+
+Les mots utilisés, "l'étiquette lexicale" choisie n'est pas neutre. les mots portent avec eux une culture et des valeurs implicites. Par 
+
+### Langage capacitant
+
+
+
 ### L'importance d'un langage partagé
 
 Développer un langage partagé est un pre-requis pour la collaboration.
 
 Certains processus de facilitation comme MGTaylor’s commencent par une longue série d'exercices conçus pour développer un langage partagé à travers un groupe. Le processus frustre souvent le participants qui ont l'impression de ne rien faire ou qu'ils ne sont pas productifs. Le fait est que, sans passer par cette étape il est impossible pour les groupes d'accomplir quelque chose ou d'être productif. La plupart des participants réalisent ceci à la fin.
 
+### L'importance d'expliciter les choses
+
+Une certaine ambiguité peut être parfois utile dans une certaine mesure, mais globalement amène du flou
 
 ### Quel est notre vocabulaire du faire ensemble ?
 
