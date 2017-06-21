@@ -182,6 +182,9 @@ Inspiré par le succès des efforts d'Occupy Sandy (une action d'aide lancé par
  
 
 Référence: <a href="http://grist.org/politics/an-occupy-founder-says-the-next-revolution-will-be-rural/">An Occupy founder says the next revolution will be rural | Grist</a>.</blockquote>
+
+un obstacle est le manque de vocabulaire partagé
+
 One obstacle to this happening is the lack of a shared vocabulary. Having standard recipes of mutual aid type of actions and a common vocabulary to describes these actions would make it much easier for groups to self organize around such <a title="Co-creative events as “social objects”" href="http://www.co-creative-recipes.cc/co-creative-events-as-social-objects/">positive social objects</a>.
 
 ### Disco soupe, #Occupy et les utopies en réseaux
@@ -199,7 +202,7 @@ Une caractéristique clés est tres importante de ces nouveaux évènements est 
 
 En france, comparaison entre le mouvement Transition citoyenne (centralisé et portée par de grand collectifs associés) et le mouvement alternatiba mouvement ascendant et decentralisée est sans appel.
 
-Comme si collectivement l'évènement se réplicait et infectait d'autre endroits
+Comme si collectivement l'évènement se réplicait et infectait d'autres endroits
 
 
 Hackathon
@@ -207,8 +210,9 @@ Forum ouvert
 Disco Soupe
 Occupy
 NuitDebout
+Permablitz
 
-#### Mêmes
+#### Propagation des Mêmes
 
 les 
 
@@ -309,13 +313,11 @@ bénéfice ce qui fait du bien : contraire méfait
 
 Payer = pacare = faire la paix => l'économie doit être pacificatrice pour avoir une valeur ajoutée
 
-
-
 A mon sens cette quète est vaine, ou en tout cas elle n'est pas suffisante. Le bombardement médiatique a déja trop abimé ces mots pour qu'il soit facilement recuperable.
 
 Mieux vaut penser le langage en mode guerilla, occuper les mots temporairement, s'en servir pour se reconnaitre entre initiés, sous groupe, déjouer la détection jusqu'a ce que ce ne soit plus possible et alors abandonner le mots pour en trouver d'autres.
 
-Comme une sorte de jeu de chat et souris, cette guerilla ontologique
+Comme une sorte de jeu de chat et souris, cette guerilla ontologique permettrai de ménager des espaces de liberté de pensée, de libérer l'imaginaire 
 
 comment les langues évoluent 
 
