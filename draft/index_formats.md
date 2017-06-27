@@ -6,9 +6,15 @@ Liste sommaire de formats pour inspiration. S'appuyer sur co-creatives recipes. 
 
 AMUSEMENT GRATUIT
 
+### Bibliothèque éphémère
+
+Biblio debout, 
+
+### Bibliothèque humaine
+
 ### Protest Selfies
 
-Prendre une photo de soi avec pancarte dessinnée indiqant revendications.
+Prendre une photo de soi avec pancarte dessinnée indiquant revendications. Ce contenu n'a pas de besoin de légende et est idéal pour les réseaux sociaux de type facebook où les gens ont peu de temps. Une image bien pensée, peut avoir beaucoup de diffusion et d'impact
 
 ![](images/protest-selfies.jpg)
 
@@ -27,11 +33,18 @@ Dans les pays où l'expression publique est très controllée, il est possible d
 
 Utilise le pattern SILENCE PARLANT
 
+### Manifestation Mike check
+
+### Mike check
+
 ### Vélorution
 
 variante: Vélorution nue (utilise MEDIAS VOYEURS)
 
 ### Masse critique
+
+### Museomix
+
 
 
 ### Pancarte Vrai-Faux
@@ -43,7 +56,15 @@ Utilise le pattern SILENCE PARLANT
 
 Utilise ACTION PREFIGURATIVE
 
+### Permablitz
+
+
+
+### Pop Up museum
+
+
+
 ### TED Talk
 
 
-
+### Tradeschool
