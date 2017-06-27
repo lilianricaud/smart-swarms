@@ -2,6 +2,8 @@
 
 Liste sommaire de formats pour inspiration. S'appuyer sur co-creatives recipes. Certains utilisent une STRUCTURE DE PAROLE très travaillée, d'autres un simple NOM PUISSANT, certains travaillent plus l'ARCHITECTURE VISIBLE ou l'ARCHITECTURE INVISIBLE
 
+Voir la liste anglophone des co-creative recipes.
+
 ### Bataille d'oreiller
 
 AMUSEMENT GRATUIT
@@ -14,6 +16,10 @@ People's Library: https://en.wikipedia.org/wiki/The_People's_Library
 ### Bibliothèque humaine
 
 ### BookCrossing ou les Circul’Livres.
+
+### Cercle de paroles
+
+CERCLE
 
 ### Forum ouvert
 
@@ -121,3 +127,8 @@ DEGUISEMENT
 DEGUISEMENT
 
 ### Freeze party
+
+
+
+
+
