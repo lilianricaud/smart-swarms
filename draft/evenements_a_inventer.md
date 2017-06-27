@@ -26,3 +26,8 @@ organiser des « rencontres ateliers » qui offrent à leurs participant-es une 
 
 nécessiterait de lister toutes les alternatives de type commun à un service essentiel, puis pour chacune optimiser le système de bascule des participants, soit en ayant des intervenants spécialisés, soit en organisant de manière à ce que plusieur sperosnnes puissent franchir le pas simulatnément, le tout en communiquant sur leur actions auprès de leur proches pour plus d'impact.
 
+### formats à refaire vivre
+
+### La goguette: 
+
+un format de rencontre où les participants se réunissaient pour partager un moment et chanter ensemble. un peu oublié (d’où l’importance de documenter pour rendre visible et ne pas perdre le mot et la pratique sociale sous jacente) le format revient (ex: Chez ta mère, un café associatif toulousain)
