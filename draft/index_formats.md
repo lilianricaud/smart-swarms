@@ -9,6 +9,7 @@ AMUSEMENT GRATUIT
 ### Bibliothèque éphémère
 
 Biblio debout: https://scinfolex.com/2016/05/11/en-quoi-la-bibliodebout-constitue-t-elle-un-commun/
+People's Library: https://en.wikipedia.org/wiki/The_People's_Library
 
 ### Bibliothèque humaine
 
