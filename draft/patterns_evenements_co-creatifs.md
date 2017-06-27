@@ -20,6 +20,8 @@ Les medias et la publicité adorent utiliser la nudité des coprs et le voyeuris
 
 ### DEGUISEMENT
 
+### SELFIE
+
 ### SILENCE PARLANT
 
 ### STORYTELLING
@@ -39,3 +41,5 @@ CERCLE, TABLES, SCÈNE, MICRO AMPLIFIÉ
 ### FLOODING
 
 DDOS ATTACKS, WORDPRESS PINGBACK FLOODING
+
+### HASHTAG

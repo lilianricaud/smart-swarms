@@ -24,6 +24,10 @@ Prendre une photo de soi avec pancarte dessinnée indiquant revendications. Ce c
 
 ![](images/protest-selfies.jpg)
 
+Utilise
+SELFIE
+HASTAG
+
 -> Blood nominate
 
 
@@ -88,3 +92,29 @@ Utilise ACTION PREFIGURATIVE
 ### Install Party
 
 ### Course colorée
+
+### Guerrilla jardinage
+
+### Incroyables comestibles
+
+### Guerilla trico (yarning)
+
+### Guerrilla pasting
+
+DETOURNEMENT
+
+### Guerilla Way finding
+
+### Guerrilla Greffe
+
+### Jam session
+
+### Santa con
+
+DEGUISEMENT
+
+### CASUAL FRIDAY
+
+DEGUISEMENT
+
+### Freeze party
