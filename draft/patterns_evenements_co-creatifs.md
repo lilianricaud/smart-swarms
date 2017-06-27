@@ -13,3 +13,19 @@ Les medias et la publicité adorent utiliser la nudité des coprs et le voyeuris
 ### AMUSEMENT GRATUIT
 
 ### SILENCE PARLANT
+
+
+### STRUCTURE DE PAROLE 
+très travaillée, d'autres un simple 
+
+### NOM PUISSANT
+
+### ARCHITECTURE VISIBLE 
+
+CERCLE, TABLES, SCÈNE, MICRO AMPLIFIÉ
+
+### ARCHITECTURE INVISIBLE
+
+### FLOODING
+
+DDOS ATTACKS, WORDPRESS PINGBACK FLOODING
