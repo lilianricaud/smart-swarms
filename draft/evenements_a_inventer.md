@@ -15,9 +15,14 @@ PATTERNS
 CONTRAINTE COMME OPPORTUNITÉ
 HYBRIDATION
 
-## Autres formats a inventer 
+## Autres formats à inventer 
 
-TEDx pour les communs: des conférences inspirantes (comme TED), auto-organisées selon une charte (comme TEDx) et mise sous CC-BY-SA pour enrichir un pool de commun comme wikipedia.
+### CommonsTEDx:
+ des conférences inspirantes (comme TED), auto-organisées selon une charte (comme TEDx) et mise sous CC-BY-SA pour enrichir un pool de commun comme wikipedia.
 
-Commons party: comm
+### Commons party: 
+
+organiser des « rencontres ateliers » qui offrent à leurs participant-es une occasion concrète de rejoindre un commun alternatif au capitalisme : énergie renouvelable coopérative (Enercoop), banque éthique (La Nef), coopérative d’habitants (Habicoop), circuits courts pour le maintien de l’agriculture paysanne (AMAP), logiciels libres (Toulibre), Internet associatif citoyen (Tetaneutral.net), Tiers-lieu coopératif open-source (Le Multiple), accès au domaine public (SavoirCom1) etc.
+
+nécessiterait de lister toutes les alternatives de type commun à un service essentiel, puis pour chacune optimiser le système de bascule des participants, soit en ayant des intervenants spécialisés, soit en organisant de manière à ce que plusieur sperosnnes puissent franchir le pas simulatnément, le tout en communiquant sur leur actions auprès de leur proches pour plus d'impact.
 
