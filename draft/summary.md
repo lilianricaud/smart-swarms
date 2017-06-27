@@ -55,11 +55,13 @@ Bel objet.
 
 ### PARTIE 1 STORYTELLING
 
-Raconter une histoire pour que le contenus soit accessible et intuitivement perçu par les lecteurs. Est ce que l'histoire peut raconter le récit d'un héros qui est influencés par le situationnisme, les tazs et va plus loin en lançant des MOTS-BOMBES qui font exploser le sens et des MOTS-EVENEMENTS qui aggregent des ESSAIMS-INTELLIGENTS (opposés de FOULE STUPIDES ou les plus petits dénominateur gagne)
+Raconter une histoire pour que le contenus soit accessible et intuitivement perçu par les lecteurs. Est ce que l'histoire peut raconter le récit d'un héros qui est influencés par le situationnisme, les tazs et va plus loin en lançant des MOTS-BOMBES qui font exploser le sens et des MOTS-EVENEMENTS / MOTS-TIFS qui aggregent des ESSAIMS-INTELLIGENTS (opposés de FOULE STUPIDES ou les plus petits dénominateurs gagnent)
 
 Format: NOUVELLE risque de m'enliser dans l'écriture d'un ROMAN (trop long, complexe à écrire seul).
 
-Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une action. ils utilisent un  format créatif pour réfléchir, un SPRINT D'ECRITURE pour rédiger. L'objectif lancer un débat qui fasse discuter et réfléchir collectivement un groupe sur un sujet qui leur tient à coeur. ils choisissent un CERCLE SAMOAN et lance un appel avec un POURQUOI.
+Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une action. ils utilisent un  format créatif pour réfléchir, un SPRINT D'ECRITURE pour rédiger une invitation.
+
+L'objectif lancer un débat qui fasse discuter et réfléchir collectivement un groupe sur un sujet qui leur tient à coeur. ils choisissent un CERCLE SAMOAN et lance un appel avec un POURQUOI.
 
 -> rédiger cette nouvelle en mode BOOKSPRINT. 
 
@@ -82,6 +84,8 @@ Deuxieme partie théorie sous forme de patterns ?, comme un lexique. pas de thé
 decrypter certains evenements clés pour montrer quels patterns ils contiennent.
 
 ### PARTIE 4 RECETTES
+
+Liste riche de recettes avec les plus digne d'interets assez détaillées, avec un visuel, les plus sommaire étant seulement décrites en quelques lignes. A chaque fois listé lien vers recettes ou communauté d'interet.
 
 DISCO SOUPE 
 
