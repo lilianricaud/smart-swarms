@@ -116,6 +116,8 @@ RITUEL RELIGIEUX/TRADITIONNEL
 
 #### PATTERNS
 
+
+
 intro breve sur les patterns comme trame, outils de lecture et comprehension, importance de la codification, sorte de vocabulaire augmenté. usage dans le livre.
 
 Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ? Ces MOTS-PATTERNS sont des versions particulières des mots qui renvoient à une description formalisée selon un cadre précis et décrivant une configuration, une pratique et dans une certaine mesure comment la mettre en place.
