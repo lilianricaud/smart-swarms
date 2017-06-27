@@ -15,6 +15,9 @@ PATTERNS
 CONTRAINTE COMME OPPORTUNITÉ
 HYBRIDATION
 
+
+Sunday Soup + Disco Soupe = soupe citoyenne
+
 ## Autres formats à inventer 
 
 ### CommonsTEDx:
