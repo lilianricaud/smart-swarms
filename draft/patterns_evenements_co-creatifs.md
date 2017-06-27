@@ -18,7 +18,7 @@ Fête de la musique, journée sans pantalon, journée de la femme, journée des 
 
 Les medias et la publicité adorent utiliser la nudité des coprs et le voyeurisme du public pour obtenir de l'attention. C'est ce voyeurisme des medias que cherchent à utiliser certains activistes en utilisant la nudité de manière créative pour faire passer un message. Voir Manifestation nue, manifestation femen.
 
-
+### DEGUISEMENT
 
 ### SILENCE PARLANT
 
