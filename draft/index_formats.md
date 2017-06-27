@@ -14,11 +14,17 @@ Biblio debout,
 
 Forum ouvert
 
+### Blood nominate
+
+-> Manif de Selfies
+
 ### Manif de Selfies
 
 Prendre une photo de soi avec pancarte dessinnée indiquant revendications. Ce contenu n'a pas de besoin de légende et est idéal pour les réseaux sociaux de type facebook où les gens ont peu de temps. Une image bien pensée, peut avoir beaucoup de diffusion et d'impact
 
 ![](images/protest-selfies.jpg)
+
+-> Blood nominate
 
 
 ### Manif nue / à poil
