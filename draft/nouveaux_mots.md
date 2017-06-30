@@ -38,11 +38,17 @@ Beaucoup d’artistes le confondent avec le néologique quoiqu’il soit très d
 Damasio, les Hauts-Parleurs.
 
 ## style monomonème
-avec ces deux variantes: maniaque et large. C’est un style qui ne pardonne pas la médiocrité puisqu’il consiste à n’utiliser qu’un seul mot par phrases, avec ses dérivés et à démultiplier les effets de rythme et de scansion autour de ce seul mot
+avec ces deux variantes: maniaque et large. C’est un style qui ne pardonne pas la médiocrité puisqu’il consiste à n’utiliser qu’un seul mot par phrases, avec ses dérivés et à démultiplier les effets de rythme et de scansion autour de ce seul mot.
+
+« Chat et Pas-Chat coabritent en chat-qu’un. Chat-qu’un avec sa chat-qu’une. Le chat avec la chatte dont il s’enfarouchat, laque
+lle chatoyante® déjà s’échatte ; le Pas-chat en chatelain® avachi®, qui compte® ses chatons comme on dompte® ses a-chats, achis près d’une chattemite sans chame qui, mais-chat-ment, machouille® ses chaveux chat-teints. » 
+
+Les figures qu’inventa Spassky, ses trois personnages conceptuels si l’on veut — le Chat, le Pas-chat et le Non-chat lent — furent présents dès le début dans sa prose. À travers elles, il oppose le chat, force souple, force vive et noble, à son triple contraire lexical et théorique : le Pas-Chat (Pacha), citoyen-roi avide d’être amusé, cajolé, mystifié et nourri; le Non-chat lent (nonchalant), corps avachi de plaisirs biodégradables, privé d’énergie et de vitesse interne, impropre aux ruptures créatrices et à la révolte ; et enfin l’A-chat (l’achat), principe de cadrage 
+et de canalisation des désirs qui opère la reterritorialisation de ce qui jaillit ouvert et fuyant en nous. 
 
 
 ## Haut Parleur
  
 ne devait parler qu’en son propre nom mais pour tous. Il devait 
-parler pour contrer certes, contrer la connerie ambiante, nuire à la paresse — mais au-delà pour ouvrir et pour libérer — libérer la vie partout où elle était 
+parler pour contrer certes, contrer la connerie ambiante, nuire à la paresse — mais au-delà pour ouvrir et pour libérer — libérer la vie partout où elle était encagée, anesthésiée ou ternie.
 
