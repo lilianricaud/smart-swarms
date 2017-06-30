@@ -304,6 +304,14 @@ EFFET SAPIR-WHORF
 Le fait que la présence d'un terme dans une langue confère à ses locuteurs un atout intellectuel
 
 
+### Créer des mots
+
+### Enracinement des mots dans la culture
+
+Inventer un néologisme ne suffit pas, il faut que le mot ait un enracinement dans une culture, qu'il y ait des gens qui le parle, sinon le mot est vide et mort.
+
+Cet enracinnement ne peut se faire que par un processus génératif.
+
 ### L'importance d'expliciter les choses
 
 Tout ce qui est implicite et donc pas précisément défini peut amèner une ambiguité.Une certaine ambiguité peut être parfois utile dans une certaine mesure, mais globalement amène du flou.
