@@ -242,7 +242,52 @@ Avoir de nombreux permet de décrire plus finement la réalité de notre quotidi
 
 Les mots utilisés, "l'étiquette lexicale" choisie n'est pas neutre. les mots portent avec eux une culture et des valeurs implicites. Par exemple l'expression "ressources humaines" porte une certain vision du monde.
 
+### Langage capacitant
 
+donne du pouvoir d'agir
+
+Dans le livre 1984 Georges Orwell narrait avec brio comment le langage appauvri ne permettait pas à ses locuteurs de d'utiliser des nuances dans leur langage (l'exemple de "bon" et son opposé "inbon", sous entendu en accord avec les lignes du parti ou pas, force à voir le monde de manière binaire (il n'y a que deux choix possibles). "Vous êtes avec nous ou contre nous" (sous-entendu avec les terroristes/ennemis de la liberté) aurait dit Georges W. Bush, ne laissant aucune autre choix possible.
+
+La novlangue de 1984 nous ote du pouvoir de discerner des nuances et donc du pouvoir d'agir.
+
+Reférénce: ateliers de desintoxication de la langue de bois
+
+A l'inverse un langage capacitant, nous donnerait du pouvoir d'agir
+
+### Un langage qui libère l'imaginaire
+
+Terrariste, Anarchitecte
+
+### De la guerre des mots 
+
+Il semble que le système soit capable de récupérer n'importe quel mot et à grand renfort de "communication" vider les mots de leur sens et réimprimer un nouveau sens, parfois même opposé à l'esprit d'orgine. L'exemple du mot "communication" qui au départ sous entendait un échange entre deux partie et est aujourd'hui devenu synonyme de propagande d'un emetteur vers des récepteurs.
+
+démocratie ou mieux "démocratie participative", si la démocratie était réallement participative on n'aurait pas besoin de préciser.
+
+innovation = progrès sans la vision humaniste, mais a visée commerciale.
+
+
+### Guerilla Ontologique
+
+On peut regretter cette récupération des mots, on peut la combattre pour leur redonner du sens et vouloir que "démocratie" signifie de nouveau "pouvoir du peuple".
+
+patrick viveret propose de repartir du sens originel de certains mots pour les hacker
+
+bénéfice ce qui fait du bien : contraire méfait
+
+Payer = pacare = faire la paix => l'économie doit être pacificatrice pour avoir une valeur ajoutée
+
+A mon sens cette quète est vaine, ou en tout cas elle n'est pas suffisante. Le bombardement médiatique a déja trop abimé ces mots pour qu'il soit facilement recuperable.
+
+Mieux vaut penser le langage en mode guerilla, occuper les mots temporairement, s'en servir pour se reconnaitre entre initiés, sous groupe, déjouer la détection jusqu'a ce que ce ne soit plus possible et alors abandonner le mots pour en trouver d'autres.
+
+Comme une sorte de jeu de chat et souris, cette guerilla ontologique permettrai de ménager des espaces de liberté de pensée, de libérer l'imaginaire 
+
+comment les langues évoluent 
+
+EFFET SAPIR-WHORF
+
+Le fait que la présence d'un terme dans une langue confère à ses locuteurs un atout intellectuel
 
 
 ### L'importance d'expliciter les choses
@@ -257,17 +302,7 @@ Développer un langage partagé est un pre-requis pour la collaboration.
 
 Certains processus de facilitation comme MGTaylor’s commencent par une longue série d'exercices conçus pour développer un langage partagé à travers un groupe. Le processus frustre souvent le participants qui ont l'impression de ne rien faire ou qu'ils ne sont pas productifs. Le fait est que, sans passer par cette étape il est impossible pour les groupes d'accomplir quelque chose ou d'être productif. La plupart des participants réalisent ceci à la fin.
 
-### Langage capacitant
 
-donne du pouvoir d'agir
-
-Dans le livre 1984 Georges Orwell narrait avec brio comment le langage appauvri ne permettait pas à ses locuteurs de d'utiliser des nuances dans leur langage (l'exemple de "bon" et son opposé "inbon", sous entendu en accord avec les lignes du parti ou pas, force à voir le monde de manière binaire (il n'y a que deux choix possibles). "Vous êtes avec nous ou contre nous" (sous-entendu avec les terroristes/ennemis de la liberté) aurait dit Georges W. Bush, ne laissant aucune autre choix possible.
-
-La novlangue de 1984 nous ote du pouvoir de discerner des nuances et donc du pouvoir d'agir.
-
-Reférénce: ateliers de desintoxication de la langue de bois
-
-A l'inverse un langage capacitant, nous donnerait du pouvoir d'agir
 
 ### Quel est notre vocabulaire du faire ensemble ?
 
@@ -296,40 +331,7 @@ De quels patterns sont composés ces evenements ?
 
 langue standard à inventer pour mieux s'entendre puis à détruire pour le remplacer par des argots et des accents locaux afin de conserver les identités, les specificités, les différences, et d'éviter d'être récupéré par le systeme.
 
-### De la guerre des mots 
 
-
-
-Il semble que le système soit capable de récupérer n'importe quel mot et à grand renfort de "communication" vider les mots de leur sens et réimprimer un nouveau sens, parfois même opposé à l'esprit d'orgine. L'exemple du mot "communication" qui au départ sous entendait un échange entre deux partie et est aujourd'hui devenu synonyme de propagande d'un emetteur vers des récepteurs.
-
-démocratie ou mieux "démocratie participative", si la démocratie était réallement participative on n'aurait pas besoin de préciser.
-
-innovation = progrès sans la vision humaniste, mais a visée commerciale.
-
-
-
-
-### Guerilla Ontologique
-
-On peut regretter cette récupération des mots, on peut la combattre pour leur redonner du sens et vouloir que "démocratie" signifie de nouveau "pouvoir du peuple".
-
-patrick viveret propose de repartir du sens originel de certains mots pour les hacker
-
-bénéfice ce qui fait du bien : contraire méfait
-
-Payer = pacare = faire la paix => l'économie doit être pacificatrice pour avoir une valeur ajoutée
-
-A mon sens cette quète est vaine, ou en tout cas elle n'est pas suffisante. Le bombardement médiatique a déja trop abimé ces mots pour qu'il soit facilement recuperable.
-
-Mieux vaut penser le langage en mode guerilla, occuper les mots temporairement, s'en servir pour se reconnaitre entre initiés, sous groupe, déjouer la détection jusqu'a ce que ce ne soit plus possible et alors abandonner le mots pour en trouver d'autres.
-
-Comme une sorte de jeu de chat et souris, cette guerilla ontologique permettrai de ménager des espaces de liberté de pensée, de libérer l'imaginaire 
-
-comment les langues évoluent 
-
-EFFET SAPIR-WHORF
-
-Le fait que la présence d'un terme dans une langue confère à ses locuteurs un atout intellectuel
 
 #### Dictionnaire du faire ensemble
 
