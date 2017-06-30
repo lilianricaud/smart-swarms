@@ -80,3 +80,65 @@ poches d’air, une sorte de dehors au cœur même du système clos o
 fficiel où tout est catalogué et payant. Nous allons apporter plu
 s qu’un vocabulaire d’appoint ou une langue de rechange, fut-elle celle de la résistance. Nous allons amener un style, j’aurais envie de dire. Le style torse. 
 
+## Neologismes 
+
+Un néologisme est un mot (nom commun, adjectif, expression) nouveau ou apparu récemment dans une langue, le phénomène de création de nouveaux mots communs étant appelé, de manière générale, « néologie ». Les linguistes distinguent1 :
+
+    Le néologisme de forme qui est un mot nouveau au sens de qui n'existait pas, un mot forgé : par exemple, en informatique, courriel (pour e-mail et pour courrier électronique) ;
+    Le néologisme d'emprunt lexical d'un mot étranger sans modification (faire du shopping, etc.) ou avec une adaptation minime à la langue (sérendipité à la place de serendipity, etc.) ;
+    Le néologisme de sens — appelé aussi néosémie — qui est l'emploi d'un mot qui existe dans le lexique d'une langue dans un sens nouveau : par exemple, quand « virus » passe d'un emploi en biologie à un emploi en informatique.
+
+Dans un sens général, un néologisme est tout mot nouveau entré dans le lexique d'une langue.
+
+C'est quand le néologisme est acquis par un assez grand nombre de locuteurs qu'on peut dire qu'il est lexicalisé. Dans ce cas, il commence généralement par être admis par certains dictionnaires. Il convient de se rappeler que ceux-ci ne font que représenter l'usage : ce n'est pas parce qu'un dictionnaire accepte un néologisme que celui-ci est, ipso facto, lexicalisé mais l'inverse.
+
+En littérature on utilise souvent des néologismes pour des considérations esthétiques, dans le cadre des mythopoeïa par exemple comme chez Henri Michaux3 qui invente des mots aux qualités descriptives poétiques, comme: « endosque », « rague », « roupète », « pratèle ». Raymond Queneau, Boris Vian dans L'écume des jours, Alfred Jarry dans son Ubu forment de nombreux néologismes, ce qui aboutit à créer l'équivalent d'une langue parallèle.
+
+https://fr.wikipedia.org/wiki/N%C3%A9ologisme
+
+
+Forme des lemmes
+Dans les langues indo-européennes
+Article connexe : Langues indo-européennes.
+
+Un lemme peut être :
+
+    simple : un seul mot → « tendre », « amour », « jamais » ;
+    composé : un mot composé (mot formé de plusieurs mots) → « rouge-gorge », « [s']entre[-]tuer » ;
+    complexe :
+        un syntagme (groupe de mots placés dans un sens précis et s'organisant autour d'un terme central) →: « vert-de-gris », « petit-bourgeois », « grand-chose »,
+        une expression complète → « je-ne-sais-quoi », « je-m'en-foutiste ».
+
+
+Les langues ont recours à une gamme de méthodes de traduction pour faire face au lexique des nouvelles technologies et tendances.
+
+    Ne pas traduire
+        français week-end
+        néerlandais computer
+    Modifier l'orthographe
+        français bogue
+        arabe istratigiya pour signifier stratégie
+        anglais américain maneuver (la version anglaise est manoeuver)
+    Traduire littéralement:
+        français code source pour l'anglais source code
+        arabe كرة القدم pour football
+    Analyser le sens pour créer un mot composé
+        islandais gervitungl, littéralement lune artificielle pour signifier satellite
+        chinois 电脑 dian nao, littéralement cerveau électrique pour signifier ordinateur
+    Modifier une racine existante selon ses règles de morphologie ou avec affixe
+        russe самолет, littéralement soi-volant pour signifier avion
+        russe излучение, de à partir de + lumière + participe de nom pour signifier rayonnement
+        français alunissage, téléchargement, ailière
+    Étendre le sens d'un mot
+        allemand Kern- pour nucléaire
+        anglais fire-wall ou français pare-feu dans le domaine de l'informatique
+        français suisse parc, jadis l'étendue pour laisser paître le cheptel, devenu l'espace pour garer les véhicules
+    Faire ressurgir un mot tombé en désuétude
+        arabe haatif pour téléphone, signifiant quelqu'un qui appelle mais qui ne se voit pas
+        islandais sími pour téléphone
+    Choisir un mot dont le sens et le son ressemblent au terme étranger (en:phono-semantic matching)
+        français bloc-notes pour blog
+        islandais eyðni comme paire phonosémantique de l'anglais AIDS
+utilisation de la racine trilitéral arabe t/q/n pour le mot technologie
+
+
