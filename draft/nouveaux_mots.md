@@ -12,3 +12,13 @@ Un mouvement « terrariste » prend corps, venu du rural. Il consiste à acheter
 ## ZAD / ZADISTE
 
 L’acronyme **ZAD** mute secrètement. De « zone à défendre », il devient pour nous « zone à déployer », à dupliquer, à démultiplier. Zones Abondamment Désirables.
+
+
+## Arterres
+
+des chemins qui sont des _arterres_ rythmés par le land art
+
+
+## Coinspiration
+
+Une coinspiration est soit une entente publique et ludique entre plusieurs personnes en vue de renverser un pouvoir établi
