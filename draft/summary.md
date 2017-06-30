@@ -258,6 +258,20 @@ A l'inverse un langage capacitant, nous donnerait du pouvoir d'agir
 
 Terrariste, Anarchitecte
 
+"Il faut protéger le langage... 
+— 
+Quoi ? 
+— 
+Il  faut  créer  un  dehors,  un  à-côté  de  toutes  les  langues  utilisées  et connues ! Un corpus monstrueux, secret, énorme... 
+
+— 
+À base de quoi ? Comment tu veux faire ça ? 
+— 
+Il  faut  réunir  ici  —  ici  même  à  Phœnix,  dans  nos  to
+urs,  tout  ce  que  la planète porte de dialectes, d’argots tordus, de langages cryptés, de mots rares  et  oubliés  —  toute  la lie, toute  la  crasse  du lexique  mondial, avec toutes ses  graphies braques.Il faut qu’on en fasse une bibliothèque vivante, une bibliothèque parlée avec les hommes qui portent ces lexiques, qui parlent ces langues.  
+
+" damasio
+
 ### De la guerre des mots 
 
 Il semble que le système soit capable de récupérer n'importe quel mot et à grand renfort de "communication" vider les mots de leur sens et réimprimer un nouveau sens, parfois même opposé à l'esprit d'orgine. L'exemple du mot "communication" qui au départ sous entendait un échange entre deux partie et est aujourd'hui devenu synonyme de propagande d'un emetteur vers des récepteurs.
