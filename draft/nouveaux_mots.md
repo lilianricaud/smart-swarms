@@ -1,7 +1,16 @@
+# Nouveaux mots
+
+## Egosystème
+
+Otto Scharmer
+
+
+# Nouveaux mots Damasio
+
 
 ## Anarchitecte
 
-Damasio
+
 
 ## Terrariste
 
