@@ -51,7 +51,7 @@ LIMINALITY
 manuel théorique et pratique: théorise et donne clés de mise en pratique. Livre jumeau type pattern language/timeless way ?
 pourrait etre trouvé dans café alternatif de st-etienne, tours, café citoyen de lille.
 
-Bel objet.
+Bel objet. Jeu de plateau coopératif et ouvert (permet de personnaliser et de rajouter des choses...)
 
 ### PARTIE 1 STORYTELLING
 
@@ -80,16 +80,24 @@ utopies en réseau
 stigmergie
 
 #### Enrichir nos pratiques du faire ensemble: 
-la tragédie du LSD
+la tragédie du LSDa
 les qualités des différents silos
 les meilleurs formats cocréactifs des différents silos
 différents formats pour différents objectifs
 hybridation
 
 #### Enrichir notre vocabulaire du faire ensemble
-langage partagé, hacker le langage, les même, les halos lexical d'un mot
+- importance/rôle du langage
+- importance d'un langage partagé, 
+- les halos lexical d'un mot
+- hacker le langage, 
+- créer des nouveaux mots: bonnes pratiques
+- propager: l'exemple des mêmes
 
 #### Enrichir la structure du vocabulaire
+- usage du format pattern dans le livre: expliciter le format
+- les patterns outils pour lire le monde et les sytèmes complexes
+- mots-patterns et mots classiques
 les langages de patterns
 Vers un nouveau vocabulaire augmenté
 
@@ -120,7 +128,9 @@ Liste des recettes:
 - tous dans le même bateau
 - débat mouvant
 - cercle
-
+- et si, oui mais
+- forum ouvert
+- qqjeux coopératifs
 
 ### PARTIE 5 JEU PLATEAU/CARTES
 
