@@ -32,6 +32,8 @@ des chemins qui sont des _arterres_ rythmés par le land art
 
 Une coinspiration est soit une entente publique et ludique entre plusieurs personnes en vue de renverser un pouvoir établi
 
+Conspiration, du latin con spirare, respirer avec, être animé du même esprit, marque l'accord profond, intellectuel et sentimental, des conspirateurs. Le terme de conspiration n'indique pas plus la volonté de nuire que celle de servir.
+
 
 ## égocentre-ville
 
