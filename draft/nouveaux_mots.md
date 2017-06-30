@@ -22,3 +22,27 @@ des chemins qui sont des _arterres_ rythmés par le land art
 ## Coinspiration
 
 Une coinspiration est soit une entente publique et ludique entre plusieurs personnes en vue de renverser un pouvoir établi
+
+
+## égocentre-ville
+
+## Volte, Volté, Volution
+
+
+
+## Style torse
+Beaucoup d’artistes le confondent avec le néologique quoiqu’il soit très différent. Il consiste à tordre le langage commercial, à plier et à découper les mots, à préfixer et à suffixer, à verbaliser des noms, substantiver des verbes, transformer des conjonctions en adjectif. Il consiste au fond à imprimer, par des flexions, une force de résistance à l’intérieur du langage pour le rendre inapte à toute récupération.
+
+(...) les mots torses, eux, échappent aux pressions : trop dur à réutiliser hors contexte, trop dépendant de la phrase où ils déploient leurs effets.
+
+Damasio, les Hauts-Parleurs.
+
+## style monomonème
+avec ces deux variantes: maniaque et large. C’est un style qui ne pardonne pas la médiocrité puisqu’il consiste à n’utiliser qu’un seul mot par phrases, avec ses dérivés et à démultiplier les effets de rythme et de scansion autour de ce seul mot
+
+
+## Haut Parleur
+ 
+ne devait parler qu’en son propre nom mais pour tous. Il devait 
+parler pour contrer certes, contrer la connerie ambiante, nuire à la paresse — mais au-delà pour ouvrir et pour libérer — libérer la vie partout où elle était 
+
