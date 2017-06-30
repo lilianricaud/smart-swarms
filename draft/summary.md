@@ -67,40 +67,58 @@ L'objectif lancer un débat qui fasse discuter et réfléchir collectivement un 
 
 ### PARTIE 2: THEORIE 
 
-Analyse et mise en perspective.
-importance du processus et pas seulement de la fin en soi (transformation sociale sans retrospective = martyre)
-De l'objectif révolutionnaire au processus révolutionnaire
-de faiseur à facilitateur
+
 
 #### Enrichir nos modes de coopération
-militants tristes et nouvel art de militer dans la joie
-de l'organisation à l'essaim: 
-du clicktivisme aux flashmob d'entraide mutuelle
-utopies en réseau
-stigmergie
+- militants tristes et nouvel art de militer dans la joie
+- de l'organisation à l'essaim: 
+- du clicktivisme aux flashmob d'entraide mutuelle
+- utopies en réseau
+- stigmergie
+
+#### Enrichir nos évènements
+- évènement comme outil de transformation culturelle
+- du diner à Burning man
+- Situationisme et création de nouvelles réalités dans le quotidien
+- Zones autonomes temporaires
+- Caractéristiques de ces nouveaux évènements co-créatifs
 
 #### Enrichir nos pratiques du faire ensemble: 
-la tragédie du LSDa
-les qualités des différents silos
-les meilleurs formats cocréactifs des différents silos
-différents formats pour différents objectifs
-hybridation
+- la tragédie du LSDa
+- les qualités des différents silos
+- les meilleurs formats cocréactifs des différents silos
+- différents formats pour différents objectifs
+- reperer les ingrédients qui marchent: analogies/contexte
+- hybridation
+- architectures invisibles
+
+#### Enrichir notre langage
+- importance/rôle du langage
+- langage comme vision du monde: il/elle oncle/tante autraliens, 
+- piège ontologique: le langage créer des murs ou des ponts
+- langage capacitant
+- l'exemple du e-prime
 
 #### Enrichir notre vocabulaire du faire ensemble
-- importance/rôle du langage
 - importance d'un langage partagé, 
 - les halos lexical d'un mot
-- hacker le langage, 
-- créer des nouveaux mots: bonnes pratiques
-- propager: l'exemple des mêmes
+- hacker le langage: toustes, iles et ailes, usages hacktivistes en chine
+- créer des nouveaux mots: bonnes pratiques, oulipo, nélogisme, damasio
+- propager: l'exemple des mêmes, nosmadismes et pollinisateurs
 
 #### Enrichir la structure du vocabulaire
 - usage du format pattern dans le livre: expliciter le format
 - les patterns outils pour lire le monde et les sytèmes complexes
 - mots-patterns et mots classiques
-les langages de patterns
-Vers un nouveau vocabulaire augmenté
+- les langages de patterns
+- Vers un nouveau vocabulaire augmenté
 
+#### Conclusion
+
+- Analyse et mise en perspective.
+- importance du processus et pas seulement de la fin en soi (transformation sociale sans retrospective = martyre)
+- De l'objectif révolutionnaire au processus révolutionnaire
+- de faiseur à facilitateur
 
 ### PARTIE 3 LEXIQUE
 

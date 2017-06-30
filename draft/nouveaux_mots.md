@@ -35,6 +35,8 @@ Une coinspiration est soit une entente publique et ludique entre plusieurs perso
 
 ## égocentre-ville
 
+## hacheter
+
 ## Volte, Volté, Volution
 
 
@@ -60,4 +62,19 @@ et de canalisation des désirs qui opère la reterritorialisation de ce qui jail
  
 ne devait parler qu’en son propre nom mais pour tous. Il devait 
 parler pour contrer certes, contrer la connerie ambiante, nuire à la paresse — mais au-delà pour ouvrir et pour libérer — libérer la vie partout où elle était encagée, anesthésiée ou ternie.
+
+
+## ambassadeurs du vocabulaire 
+
+ambassadeurs du vocabulaire que nous avons développé ? 
+— 
+Si vous voulez. Des ouvreurs de crâne, des jeteurs de mots par poignée, des gens qui amèneront avec eux de quoi libérer le lexique partout où on l’empêche de respirer. Il est facile d’avoir raison entre amis. On va maintenant essayer de partager nos mots, de troquer nos trouvailles, d’enseigner à qui veut notre jargon. 
+En confrontant notre sabir avec les langues officielles, dans tous les pays où nous irons, il en sortira des greffes — du Turc enrichi, du Français élargi, de l’argentin tordu, un autre anglais. Nous allons enfin mondialiser quelque chose. À notre tour. 
+— 
+Quelque chose comme une nouvelle langue ? 
+— 
+Quelque chose comme une nouvelle façon de truffer. D’insinuer des 
+poches d’air, une sorte de dehors au cœur même du système clos o
+fficiel où tout est catalogué et payant. Nous allons apporter plu
+s qu’un vocabulaire d’appoint ou une langue de rechange, fut-elle celle de la résistance. Nous allons amener un style, j’aurais envie de dire. Le style torse. 
 
