@@ -72,6 +72,12 @@ importance du processus et pas seulement de la fin en soi (transformation social
 De l'objectif révolutionnaire au processus révolutionnaire
 de faiseur à facilitateur
 
+Enrichir nos modes de coopération: Flashmob d'entraide mutuelle, stigmergie
+Enrichir nos pratiques du faire ensemble: la tragédie du LSD, les formats cocréactifs
+Enrichir notre vocabulaire du faire ensemble: langage partagé, hacker le langage, 
+Enrichir la structure du vocabulaire: les langages de patterns
+Vers un nouveau vocabulaire
+
 
 ### PARTIE 3 LEXIQUE
 
@@ -87,56 +93,12 @@ decrypter certains evenements clés pour montrer quels patterns ils contiennent.
 
 Liste riche de recettes avec les plus digne d'interets assez détaillées, avec un visuel, les plus sommaire étant seulement décrites en quelques lignes. A chaque fois listé lien vers recettes ou communauté d'interet.
 
-DISCO SOUPE 
 
-contient 
+### PARTIE 5 JEU PLATEAU/CARTES
 
-NEOLOGISME, CHARTE SIMPLE, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL).
+---
 
-SUNDAY SOUPE
-
-contient PRESENTATION ECLAIR, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL
-
-HACKATHON
-
-IGNITE
-
-TED
-
-MINGA: conteneur
-
-BOOKSPRINT
-
-PERMABLITZ
-
-RITUEL RELIGIEUX/TRADITIONNEL
-
-
-
-
-#### PATTERNS
-
-
-
-intro breve sur les patterns comme trame, outils de lecture et comprehension, importance de la codification, sorte de vocabulaire augmenté. usage dans le livre.
-
-Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ? Ces MOTS-PATTERNS sont des versions particulières des mots qui renvoient à une description formalisée selon un cadre précis et décrivant une configuration, une pratique et dans une certaine mesure comment la mettre en place.
-
-Patterns des differents mouvements ou bien aggreger tout dans un seul volume pour simplifier
-
-
-
-
-
-##### occupy
-
-#####  situtationnistes: 
-
-DETOURNEMENT, CRITIQUE DE LA VIE QUOTIDIENNE, FÊTE REVOLUTIONNAIRE, (ORGANISATION DE THÉORICIENS), JEU, UTOPIE CREATRICE
-
-##### Education populaire, theatre impro, art of hosting
-
-dans patterns ou recettes ?
+### Enrichir nos pratiques du faire ensemble
 
 #### Histoire Disco Soupe: du sens, un évènement ludique, une culture propre (jeux de mots, visuels), une recette libre
 
@@ -217,6 +179,8 @@ Disco Soupe
 Occupy
 NuitDebout
 Permablitz
+
+### Enrichir notre vocabulaire
 
 #### Propagation des Mêmes
 
@@ -396,6 +360,8 @@ bonnes pratiques:
 
 latin ou grec ou autre langue, fusionné et mis à jour/coloré dans la langue souhaité.
 
+### Les patterns: Vers un nouveau langage augmenté
+
 #### Patterns
 
 faire un dossier avec fichiers individuels.md
@@ -422,5 +388,59 @@ faire un dossier avec fichiers individuels.md
 
 
 ### L'approche du hacker
+
+
+
+
+
+
+DISCO SOUPE 
+
+contient 
+
+NEOLOGISME, CHARTE SIMPLE, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL).
+
+SUNDAY SOUPE
+
+contient PRESENTATION ECLAIR, FUN, RECETTE LIBRE, SITE WEB, SENS, ACTION PREFIGURATIVE, REPAS CONVIVIAL
+
+HACKATHON
+
+IGNITE
+
+TED
+
+MINGA: conteneur
+
+BOOKSPRINT
+
+PERMABLITZ
+
+RITUEL RELIGIEUX/TRADITIONNEL
+
+
+
+
+#### PATTERNS
+
+
+
+intro breve sur les patterns comme trame, outils de lecture et comprehension, importance de la codification, sorte de vocabulaire augmenté. usage dans le livre.
+
+Contient mode d'expression PATTERN et permet de lire en diagonale. Cartes détachables ? Ces MOTS-PATTERNS sont des versions particulières des mots qui renvoient à une description formalisée selon un cadre précis et décrivant une configuration, une pratique et dans une certaine mesure comment la mettre en place.
+
+Patterns des differents mouvements ou bien aggreger tout dans un seul volume pour simplifier
+
+
+
+##### occupy
+
+#####  situtationnistes: 
+
+DETOURNEMENT, CRITIQUE DE LA VIE QUOTIDIENNE, FÊTE REVOLUTIONNAIRE, (ORGANISATION DE THÉORICIENS), JEU, UTOPIE CREATRICE
+
+##### Education populaire, theatre impro, art of hosting
+
+dans patterns ou recettes ?
 
 
