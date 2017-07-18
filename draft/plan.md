@@ -95,10 +95,10 @@ L'objectif lancer un débat qui fasse discuter et réfléchir collectivement un 
 - architectures invisibles
 
 #### Enrichir notre langage
-- importance/rôle du langage
+- importance/rôle du langage/lore
 - langage comme vision du monde: il/elle oncle/tante autraliens, 
 - piège ontologique: le langage créer des murs ou des ponts
-- langage capacitant
+- des PONTS ou des MURS: langage capacitant
 - l'exemple du e-prime
 
 #### Enrichir notre vocabulaire du faire ensemble
