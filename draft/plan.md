@@ -64,17 +64,19 @@ Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une a
 L'objectif lancer un débat qui fasse discuter et réfléchir collectivement un groupe sur un sujet qui leur tient à coeur. ils choisissent un CERCLE SAMOAN et lance un appel avec un POURQUOI.
 
 -> rédiger cette nouvelle en mode BOOKSPRINT. 
+-> contacter Alain Damasion pour proposer une écriture ?
 
 ### PARTIE 2: THEORIE 
 
 
 
 #### Enrichir nos modes de coopération
-- militants tristes et nouvel art de militer dans la joie
-- de l'organisation à l'essaim: 
+- du militantisme tristes à l'action dans la joie (nouvel art de militer)
+- de l'organisation/pyramide à l'essaim: 
 - du clicktivisme aux flashmob d'entraide mutuelle
 - utopies en réseau
-- stigmergie
+- de la coopération à la stigmergie
+- ce qui fait groupe ([.../documents/qualifying-groups.md])
 
 #### Enrichir nos évènements
 - évènement comme outil de transformation culturelle
