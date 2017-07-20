@@ -1,5 +1,8 @@
 # Nouveaux mots
 
+## Subvertising
+
+
 ## Egosystème
 
 Otto Scharmer
