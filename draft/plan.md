@@ -55,14 +55,6 @@ Bel objet. Jeu de plateau coopératif et ouvert (permet de personnaliser et de r
 
 ### PARTIE 1 STORYTELLING
 
-Raconter une histoire pour que le contenus soit accessible et intuitivement perçu par les lecteurs. Est ce que l'histoire peut raconter le récit d'un héros qui est influencés par le situationnisme, les tazs et va plus loin en lançant des MOTS-BOMBES qui font exploser le sens et des MOTS-EVENEMENTS / MOTS-TIFS qui aggregent des ESSAIMS-INTELLIGENTS (opposés de FOULE STUPIDES ou les plus petits dénominateurs gagnent)
-
-Format: NOUVELLE risque de m'enliser dans l'écriture d'un ROMAN (trop long, complexe à écrire seul).
-
-Synopsis: un groupe de jeunes activistes se retrouvent pour réfléchir à une action. ils utilisent un  format créatif pour réfléchir, un SPRINT D'ECRITURE pour rédiger une invitation.
-
-L'objectif lancer un débat qui fasse discuter et réfléchir collectivement un groupe sur un sujet qui leur tient à coeur. ils choisissent un CERCLE SAMOAN et lance un appel avec un POURQUOI.
-
 -> rédiger cette nouvelle en mode BOOKSPRINT. 
 -> contacter Alain Damasion pour proposer une écriture ?
 
@@ -150,7 +142,7 @@ Liste des recettes:
 - cercle
 - et si, oui mais
 - forum ouvert
-- qqjeux coopératifs
+- qq jeux coopératifs
 
 ### PARTIE 5 JEU PLATEAU/CARTES
 
