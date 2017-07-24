@@ -4,77 +4,41 @@ Happenings,luttes festives et actions directes
 Texte de Sébastien Porte / Photographies de Cyril Cavalié
 
 
-QUE FAIRE lorsque dans une société les modèles de contestation sont en crise ? Lorsque le pouvoir dominant récupère et digère les oppositions une à une. Lorsque, dans le jeu politique, les héritiers des luttes sociales sont tentés d'adopter le point de vue de l’adversaire puis se retrouvent paralysés par leurs contradictions internes. Lorsque ONG, syndicats, associations et autres corps intermédiaires souffrent des mêmes travers autistes, bureaucratiques ou clientélistes et génèrent les mêmes frustrations face à leur insuffisance. Lorsque les formes les plus radicales de la subversion, assimilées sans distinction à l’épouvantail terroriste, ont perdu toute légitimité morale. Lorsque même les gestes du quotidien semblent vains face à la dérive implacable du monde.
+Que faire lorsque dans une société les modèles de contestation sont en crise ? Lorsque le pouvoir dominant récupère et digère les oppositions une à une. Lorsque, dans le jeu politique, les héritiers des luttes sociales sont tentés d'adopter le point de vue de l’adversaire puis se retrouvent paralysés par leurs contradictions internes. Lorsque ONG, syndicats, associations et autres corps intermédiaires souffrent des mêmes travers autistes, bureaucratiques ou clientélistes et génèrent les mêmes frustrations face à leur insuffisance. Lorsque les formes les plus radicales de la subversion, assimilées sans distinction à l’épouvantail terroriste, ont perdu toute légitimité morale. Lorsque même les gestes du quotidien semblent vains face à la dérive implacable du monde.
 
-Qlue faire lorsque le rêve ancestral d’un ordre nouveau mort et enterré, perverti dans chacune de ses tentatives de réalisation, resté à l'état de brouillon ?
+Que faire lorsque le rêve ancestral d’un ordre nouveau mort et enterré, perverti dans chacune de ses tentatives de réalisation, resté à l'état de brouillon ?
 
 Le mythe du progrès s'est effondré. Les valeurs sont saturées. L'avenir ne fait plus rêver. Les élans collectifs sont davantage portés par le souci d'éviter ce qui n’est pas désiré, de prolonger ce qu'il y a de meilleur dans le présent, que par le d‘un positif d'un lendemain devenu insaisissable. Pour toute une génération qui s'est éveillée au monde avec la chute du Mur de Berlin, qui a grandi sous un régime d'anesthésie du conflits sociaux, l'échec des grandes idéologies exerce un effet repoussoir inconscient mais néanmoins considérable. L'idée selon laquelle nous ne pouvons jamais prévoir le résultat de nos révolutions fait désormais partie de l'acquis culturel. C'est une donnée intégrée à notre vision de l'Histoire qui se retrouve dès lors en arrière-plan de toute action.
 
 À ce constat d'impuissance s’ajoute celui, entretenu par le discours de crise, d'insécurité économique et de peur de l‘avenir Mai 68 fut l’œuvre d’une jeunesse optimiste et favorisée. Aujourd'hui, pour la première fois depuis longtemps, l'époque promet ses nouvelles générations à une existence plus difficile que celle de leurs parents, et invite à l’admettre comme une fatalité indolore.
 
 Quant aux formes d‘expression de la contestation, elles ont aussi atteint leurs limites. Les grands rituels collectifs, grèves, pétitions et manifestations de Bastille à Nation, sont entrés dans une phase de routinisation et de normalisation où l'on devine par avance qu'ils n’aboutiront pas. Les syndicats se montrent dans l'incapacité d'obtenir de nouveaux avantages. La grève n’est plus constructive mais défensive. Ministres et médias enfoncent le clou en présentant la grève non plus comme un outil d'expression indissociable de la démocratie réelle, mais comme une gêne, une entrave, une prise en otage. Au droit de grève se substitue pour le citoyen un droit « à être préservé de la grève » par l’instauration des services minimums. La grève serait même devenue cette chose limite dont « plus personne ne s'aperçoit », selon le propos un jour tenu par le président Sarkozy, à la fois comme pour en dresser un bilan cynique et s’exonérer à l'avance de ses responsabilités face au message du pays. En découle, dans le monde de l'entreprise, un sentiment diffus de résignation qui Les syndicats vivent depuis cinquante ans sur ce systéme
-qui a longtemps fonctionné, mais qui ne fonctionne quasiment plus. Auparavant, lorsque les syndicats étaient capables de mobiliser sur 24 heures, des négociations s‘ouvraient,
-chacun faisait une partie du chemin et on aboutissait à un accord. Aujourd'hui, on vait bien que même lorsque la mobilisation est forte, les gouvernements ne reculent plus, et il en faut plus que ça pour reculer ». Les syndicats espéraient ce jour-là un million de personnes dans la rue. Il y en eut la moitié. Et les projets contestés ont été adoptés sans encombre.
+qui a longtemps fonctionné, mais qui ne fonctionne quasiment plus. Auparavant, lorsque les syndicats étaient capables de mobiliser sur 24 heures, des négociations s‘ouvraient, chacun faisait une partie du chemin et on aboutissait à un accord. Aujourd'hui, on vait bien que même lorsque la mobilisation est forte, les gouvernements ne reculent plus, et il en faut plus que ça pour reculer ». Les syndicats espéraient ce jour-là un million de personnes dans la rue. Il y en eut la moitié. Et les projets contestés ont été adoptés sans encombre.
 
 De quelque côté que l'on se tourne, vers les modèles du passé, les anticipations du futur ou les réalités de la mobilisation actuelle, les perspectives se sont brouillées. Resterait le réflexe de la fuite et du repli entre soi. Et encore. Sur le territoire physique et dans l‘agenda de nos vies, les flux et réseaux technologiques, la domestication des espaces, le contrôle social et le spectacle désespérant de la religion consumériste exercent une telle emprise, forment un tel maillage, qu‘il n‘est même plus assuré de pouvoir aménager des zones d'utopie à l'abri de leurs failles.
 
 Ré-enchanter le monde
 
-Dès lors. dans un tel contexte, il était inévitable que naissent de nouvelles formes de contestation. Car les raisons d'agir sont de plus en plus nombreuses. Et comme elles sont
-de plus en plus variées et complexes, logées non plus dans un lieu central mais dans chaque situation, la contestation pour y répondre a dû se structurer de manière éclatée.
-Chaque foyer actif pointant une cible unique et cherchant à l'atteindre de manière effective, plutôt qu'à englober la multitude des cibles dans un système de pensée stérile. Voici donc que surgissent dans les années 2000 une génération de collectifs qui braquent les projecteurs sur les points noirs de la société : logement, nucléaire, pauvreté, OGM, chasse aux sans-papiers, vidéosurveillence, nanotechnologies... Et
-qui le font en insufflant un esprit marqué par le jeu, le rêve, la créativité, le plaisir de lutter ensemble. Une volonté de ré-enchanter le monde. Ils s'entourent d’une esthétique particulière, qui va de pair avec la montée en puissance du pouvoir du images. Ils introduisent l’imaginaire dans un champ du politique qui a touiours essentiellement fonctionné sur les dimensions du réel et du symbolique.
+Dès lors. dans un tel contexte, il était inévitable que naissent de nouvelles formes de contestation. Car les raisons d'agir sont de plus en plus nombreuses. Et comme elles sont de plus en plus variées et complexes, logées non plus dans un lieu central mais dans chaque situation, la contestation pour y répondre a dû se structurer de manière éclatée.
+
+Chaque foyer actif pointant une cible unique et cherchant à l'atteindre de manière effective, plutôt qu'à englober la multitude des cibles dans un système de pensée stérile. Voici donc que surgissent dans les années 2000 une génération de collectifs qui braquent les projecteurs sur les points noirs de la société : logement, nucléaire, pauvreté, OGM, chasse aux sans-papiers, vidéosurveillence, nanotechnologies... 
+
+Et qui le font en insufflant un esprit marqué par le jeu, le rêve, la créativité, le plaisir de lutter ensemble. Une volonté de ré-enchanter le monde. Ils s'entourent d’une esthétique particulière, qui va de pair avec la montée en puissance du pouvoir du images. Ils introduisent l’imaginaire dans un champ du politique qui a touiours essentiellement fonctionné sur les dimensions du réel et du symbolique.
 
 Traversant ces collectifs, des traits communs caractérisent les modes d'organisation et font leur originalité.
 
 Au plan structurel
 
-Une organisation en réseau. sans hiérarchie ni chef (sinon
-un porte-parole), sur le modèle du rhizome tel que décrit
-dans la théorie deuleuzienne (en botanique, le rhizome est
-une racine qui prolifère horizontalement sous terre en de
-multiples ramifications, chacune portant en elle l'ensemble
-des informations nécessaires à sa reproduction, et même si
-l'une est arrachée, une autre repoussera plus loin). Ce
-modèle s'oppose à l'organisation pyramidale des structures
-militantes traditionnelles, ceiquées sur le schéma de l'État-
-Nation (une base quadrillée en fédérations, un sommet cen-
-tralisé au contact du monde politique, l'ensemble étant relié
-par des procédures de délégation).
+Une organisation en réseau. sans hiérarchie ni chef (sinon un porte-parole), sur le modèle du rhizome tel que décrit dans la théorie deuleuzienne (en botanique, le rhizome est une racine qui prolifère horizontalement sous terre en de multiples ramifications, chacune portant en elle l'ensemble des informations nécessaires à sa reproduction, et même si l'une est arrachée, une autre repoussera plus loin). Ce modèle s'oppose à l'organisation pyramidale des structures militantes traditionnelles, ceiquées sur le schéma de l'État-Nation (une base quadrillée en fédérations, un sommet centralisé au contact du monde politique, l'ensemble étant relié par des procédures de délégation).
 
-La culture du réseau est renforcée par l‘usage généralisé
-d'Internet. Quand ils ne sont pas dans la rue, les militants
-passent leur temps sur Internet à compiler des documents,
-organiser des rendez-vous, élaborer des propositions de
-réformes. Or Internet est par nature hostile à la persistance
-des pesanteurs et du filtre hiérarchiques. Car il permet de
-diffuser de l'information de manière directe, homogène et
-indifiérenciée entre tous les membres du groupe, et d'accé-
-lérer la prise de décision. Internet devient ainsi un espace
-d'expression politique à l'échelon mondial où s'articulent la
-réalité dela rue et la virtualité de l’information numérisée.
+La culture du réseau est renforcée par l‘usage généralisé d'Internet. Quand ils ne sont pas dans la rue, les militants passent leur temps sur Internet à compiler des documents, organiser des rendez-vous, élaborer des propositions de réformes. Or Internet est par nature hostile à la persistance des pesanteurs et du filtre hiérarchiques. Car il permet de
+diffuser de l'information de manière directe, homogène et indifiérenciée entre tous les membres du groupe, et d'accélérer la prise de décision. Internet devient ainsi un espace d'expression politique à l'échelon mondial où s'articulent la réalité dela rue et la virtualité de l’information numérisée.
 
-La vie militante est débarrassée de son formalisme. de
-ses rituels, des petites tâches bénévoles. Pas de cartes
-d'adhésion, pas de forme juridique, pas d’assemblée géné-
-rale ni de langue bois. Là encore, les modes de communica-
-tion ont fait évoluer les modes d'organisation. Là encore, le
-nouveau modèle se distingue de l'ancien, de type associatif,
-qui étaità l'image des institutions républicaines (un prési-
-dent/chef d'État, un bureau/gouvernement, un conseil d'ad-
-ministration/parlement, une assemblée générale/suffrage
-universel).
+La vie militante est débarrassée de son formalisme, de ses rituels, des petites tâches bénévoles. Pas de cartes d'adhésion, pas de forme juridique, pas d’assemblée générale ni de langue bois. Là encore, les modes de communication ont fait évoluer les modes d'organisation. Là encore, le nouveau modèle se distingue de l'ancien, de type associatif,
+qui étaità l'image des institutions républicaines (un président/chef d'État, un bureau/gouvernement, un conseil d'administration/parlement, une assemblée générale/suffrage universel).
 
-Les militants sont libres de s'éloigner du groupe et d'y
-revenir quand ils le désirent. selon leurs envies, leur dispo-
-nibilité, leurs capacités vis-à-vis de l'action en cours. Ils peu-
-vent également être impliqués dans plusieurs groupes à la
-fois. Militer n'est plus un don de soi ni un rôle social, c‘est
-une attitude qui peut être aussi vite endossée que quittée.
-On est loin de la figure héroïque du militant du XX° siècle qui
-étaitformé à l'intérieur du groupe, qui y faisait carrière et qui
-devait lui sacrifier sa vie privée. Les sociologues parlent
-aujourd'hui d’engagement distancé.
+Les militants sont libres de s'éloigner du groupe et d'y revenir quand ils le désirent. selon leurs envies, leur disponibilité, leurs capacités vis-à-vis de l'action en cours. Ils peuvent également être impliqués dans plusieurs groupes à la fois. Militer n'est plus un don de soi ni un rôle social, c‘est une attitude qui peut être aussi vite endossée que quittée.
+On est loin de la figure héroïque du militant du XX° siècle qui était formé à l'intérieur du groupe, qui y faisait carrière et qui devait lui sacrifier sa vie privée. Les sociologues parlent aujourd'hui d’engagement distancé.
 
 Conséquence de cet engagement distancié, les collectifs sont dissolubles, éphémères et malléables à souhait, vu que leur existence ne repose que sur la seule action des individus qui les composent. Certains ne durant même que le temps d'une action médiatique, puis disparaissent. L‘objectif est moins de durer que de frapper les esprits.
 
@@ -82,18 +46,16 @@ Au plan stratégique
 
 Action directe non-violente (ADNV) et désobéissance civile sont à le base du mode opératoire. Ce sont des tactlques autant que des principes moraux.
 
-l.u notions sont pensées comme des « coups a, des spectacles médiatiques. des actes de communication, des evenements factice destinés à attirer l'attention des journalistes et à sensibiliser l'opinion, partant du constat que les medias ont besoin d'angles d’attaque pour aborder les sujets de fond. Il s'agit en général de rassemblements de durée limitée. portant sur des objectifs restreints, qui en appellent aux symboles, pour les attaquer ou les parodier.
+Les notions sont pensées comme des « coups a, des spectacles médiatiques. des actes de communication, des evenements factice destinés à attirer l'attention des journalistes et à sensibiliser l'opinion, partant du constat que les medias ont besoin d'angles d’attaque pour aborder les sujets de fond. Il s'agit en général de rassemblements de durée limitée. portant sur des objectifs restreints, qui en appellent aux symboles, pour les attaquer ou les parodier.
 
 Happenings, actions commando, rassemblements festifs, squats, blocages, barbouillages... Tous les moyens sont bons pour frapper l‘opinion.
 
-- Les actlons sont annoncées à l'avance et se font au grand jour, avec le public et les autorités pour témoin, en se plaçant éventuellement dans une situation de vulnérabilité. La disproportion entre la violence de I'oppresseur et la non-violence de l'activiste doit alors être visible de tous et le violence ne s'exerce que sur des biens matériels. Ces principes issus de la non-violence confèrent à l'action une supériorité morale, et donc une efficacité stratégique.
+- Les actions sont annoncées à l'avance et se font au grand jour, avec le public et les autorités pour témoin, en se plaçant éventuellement dans une situation de vulnérabilité. La disproportion entre la violence de I'oppresseur et la non-violence de l'activiste doit alors être visible de tous et le violence ne s'exerce que sur des biens matériels. Ces principes issus de la non-violence confèrent à l'action une supériorité morale, et donc une efficacité stratégique.
 
-Dans certains cas, les militants peuvent iuger nécessaire d'agir hors de la légalité. Ils appliquent le principe de la désobéissance civile qui consiste à refuser d'obéir à une loi que l'on considère comme contraire aux droits fondamentaux, et
-a en assumer les conséquences. L‘objectif est de provoquer le procès, pour pouvoir y exposer ses thèses, pousser l'adversaire dans ses retranchements et retourner la situation contre lui. Mais aussi, in fine, de promouvoir une loi plus juste.
+Dans certains cas, les militants peuvent juger nécessaire d'agir hors de la légalité. Ils appliquent le principe de la désobéissance civile qui consiste à refuser d'obéir à une loi que l'on considère comme contraire aux droits fondamentaux, et a en assumer les conséquences. L‘objectif est de provoquer le procès, pour pouvoir y exposer ses thèses, pousser l'adversaire dans ses retranchements et retourner la situation contre lui. Mais aussi, in fine, de promouvoir une loi plus juste.
 
 Par conséquent, la puissance ne s'exprime plus dans la quantité mais dans la qualité et l'efficacité de l'action. même si celle-ci n'est que symbolique. Les formes traditionnelles du militantisme tiraient leur légitimité du nombre d'adhérents (ceux qui « collent » au groupe) ou de manifestants dans la rue. L'exposition numérique de la puissance était nécessaire pour ensuite être accepté et peser dans la négociation avec
-les pouvoirs publics. À l‘inverse, les collectifs actuels n'ont pas besoin de beaucoup d'effectifs. Il s'agit plus de « faire
-image » que de « faire masse » ou de « faire mal. Certes, l'approche n'est pas totalement inédite. Dans les années 1990, des associations comme Act-Up ou Greenpeace se livraient déjà à des actions à vocation médiatique, type encapotage » de l'obélisque de la Concorde à Paris ou occupation de la plate-forme pétrolière Brent Sparen mer du Nord.
+les pouvoirs publics. À l‘inverse, les collectifs actuels n'ont pas besoin de beaucoup d'effectifs. Il s'agit plus de « faire image » que de « faire masse » ou de « faire mal. Certes, l'approche n'est pas totalement inédite. Dans les années 1990, des associations comme Act-Up ou Greenpeace se livraient déjà à des actions à vocation médiatique, type encapotage » de l'obélisque de la Concorde à Paris ou occupation de la plate-forme pétrolière Brent Sparen mer du Nord.
 
 Les collectifs d’ADNV de type single issue groups (agissant sur un seul thème) se sont également illustrés en Grande-Bretagne ou aux États-Unis bien avant d'arriver en France (campagnes anti-consuméristes d‘Adbusters, blocages d'autoroutes à Twyford Down...). La tradition anglo-saxonne a en effet inséré très tôt la notion de désobéissance civile dans sa doctrine juridique. Aux États-Unis, elle permet aux groupes militants, ethniques ou religieux, d’intervenir en tant que tels dans la vie politique, sans faire appel à l'État.
 
