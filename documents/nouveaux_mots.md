@@ -2,6 +2,9 @@
 
 ## Subvertising
 
+## Merdia
+
+## Banksters
 
 ## Egosystème
 
