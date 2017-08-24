@@ -14,7 +14,9 @@ Otto Scharmer
 
 Quand une marque devient synonyme du produit qu'elle vend, elle perd son identité de marque au profit du produit. Ainsi kleenex, kway, frigidaire, ... sont des noms de marques qui sont devenus des noms communs et ont perdus leur majuscule.
 
-Pour des groupes de CREATIFS CULTURELS, il serait possible pousser activement une généralisation pour accélérer ce type d'évolution. Par exemple en désignant tous les kebabs, pizzeria et fastfood sous le nom ultra connu de "macdo", il serait possible de diluer la marque en s'appuyant sur sa notoriété. Pour aller plus loin on pourrait pousser l'analogie hors du champs de la nourriture, "le macdo de la culture", "mcdonalsdiser", ...
+Pour des groupes de CREATIFS CULTURELS, il serait possible pousser activement la généralisation du sens du nom de marque pour accélérer ce type d'évolution. Par exemple en désignant tous les kebabs, pizzeria et fastfood sous le nom ultra connu de "macdo", il serait possible de diluer la marque en s'appuyant sur sa notoriété. Pour aller plus loin on pourrait pousser l'analogie hors du champs de la nourriture, "le macdo de la culture", "mcdonalsdiser", ...
+
+Source du mot: l'analogie coeur de la pensée.
 
 # Nouveaux mots Damasio
 
