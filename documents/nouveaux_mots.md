@@ -18,6 +18,12 @@ Pour des groupes de CREATIFS CULTURELS, il serait possible pousser activement la
 
 Source du mot: l'analogie coeur de la pensée.
 
+# Nouveaux mots heather marsh
+
+Concentric user groups with
+epistemic communities and knowledge bridges may
+work for idea based systems;
+
 # Nouveaux mots Damasio
 
 
