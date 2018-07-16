@@ -29,7 +29,7 @@ Hakim Bey en donnant un nom auto-explicite et en apportant une réflexion theori
 
 ### Du "diner" à Burning Man.
 
-L'activisme n'est plus un enagement sacrificiel pour toute la vie, mais peut devenir un angagement ponctuel où les participants se rassemblent et se dispersent. (apero facebook)
+L'activisme n'est plus un engagement sacrificiel pour toute la vie, mais peut devenir un engagement ponctuel où les participants se rassemblent et se dispersent. (apero facebook)
 
 De nos jours l'activisme se transforme en Artivisme. Fini le militantisme triste, place au jeu et à la fête. La reflexion ne se conçoit plus sans action. un autre monde est possible, souhaitable, et les graines en sont déja la. (, ref UN NOUVEL ART DE MILITER, JOYEUX BORDEL)
 
@@ -88,6 +88,7 @@ Permablitz
 #### Propagation des Mêmes
 
 les 
+#ironèmes
 
 ### La difficulté à faire ensemble
 
