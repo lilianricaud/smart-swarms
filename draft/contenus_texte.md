@@ -135,8 +135,7 @@ Il  faut  créer  un  dehors,  un  à-côté  de  toutes  les  langues  utilisé
 — 
 À base de quoi ? Comment tu veux faire ça ? 
 — 
-Il  faut  réunir  ici  —  ici  même  à  Phœnix,  dans  nos  to
-urs,  tout  ce  que  la planète porte de dialectes, d’argots tordus, de langages cryptés, de mots rares  et  oubliés  —  toute  la lie, toute  la  crasse  du lexique  mondial, avec toutes ses  graphies braques.Il faut qu’on en fasse une bibliothèque vivante, une bibliothèque parlée avec les hommes qui portent ces lexiques, qui parlent ces langues.  
+Il  faut  réunir  ici  —  ici  même  à  Phœnix,  dans  nos  tours,  tout  ce  que  la planète porte de dialectes, d’argots tordus, de langages cryptés, de mots rares  et  oubliés  —  toute  la lie, toute  la  crasse  du lexique  mondial, avec toutes ses  graphies braques.Il faut qu’on en fasse une bibliothèque vivante, une bibliothèque parlée avec les hommes qui portent ces lexiques, qui parlent ces langues.  
 
 " damasio
 
@@ -144,7 +143,7 @@ urs,  tout  ce  que  la planète porte de dialectes, d’argots tordus, de langa
 
 Il semble que le système soit capable de récupérer n'importe quel mot et à grand renfort de "communication" vider les mots de leur sens et réimprimer un nouveau sens, parfois même opposé à l'esprit d'orgine. L'exemple du mot "communication" qui au départ sous entendait un échange entre deux partie et est aujourd'hui devenu synonyme de propagande d'un emetteur vers des récepteurs.
 
-démocratie ou mieux "démocratie participative", si la démocratie était réallement participative on n'aurait pas besoin de préciser.
+démocratie ou mieux "démocratie participative", si la démocratie était réellement participative on n'aurait pas besoin de préciser.
 
 innovation = progrès sans la vision humaniste, mais a visée commerciale.
 
@@ -178,7 +177,7 @@ Le fait que la présence d'un terme dans une langue confère à ses locuteurs un
 
 Inventer un néologisme ne suffit pas, il faut que le mot ait un enracinement dans une culture, qu'il y ait des gens qui le parle, sinon le mot est vide et mort.
 
-Cet enracinnement ne peut se faire que par un processus génératif.
+Cet enracinement ne peut se faire que par un processus génératif.
 
 ### L'importance d'expliciter les choses
 
