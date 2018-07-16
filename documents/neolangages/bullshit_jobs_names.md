@@ -1,0 +1,1 @@
+Workers who do useless jobs include "flunkies" (hired to make other people feel important), "goons" (who aggressively sell people things they don't need or want) and "duct tapers" (who exist only because of a "glitch" in an organization)
