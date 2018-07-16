@@ -4,4 +4,4 @@ MEME: unit of cultural transmission that requires the uses of replicators to evo
 
 NOOSPHERE: describe 3rd stage of evolutionnary development (geosphere, biosphere, noosphere, human thought)
 
-The most powerful way to transmit memes is through stories.
+The most powerful way to transmit memes is through STORIES.

@@ -1,4 +1,4 @@
-a quick look at the community work article of Wikipedia shows a variety of words have been invented by different culture to name the way of working together for the common good.
+a quick look at the community work article of Wikipedia shows a variety of words have been invented by different cultures to name the way of working together for the common good.
 
 
 Google search engine has been so frequently used it has become a verb for search the web
