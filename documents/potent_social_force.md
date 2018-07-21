@@ -23,3 +23,8 @@ convinces real-estate speculators to make money through implementing this nihili
 
 **There is no reason for such a coupling between economics and ideology, however, since profits can be made building in any variety of styles. And yet, we see architectural nihilism as the preferred tool of globalization.** One senses an intolerant
 religious zeal behind the desire to destroy the identity contained in our past — cultural genocide practiced against the life embedded in architectural and urban forms.
+
+
+## Source
+
+Salingaros 2018
