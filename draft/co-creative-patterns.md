@@ -24,6 +24,8 @@
 ## APPRENTISSAGE CONTINU
 
 
+
+
 # CO-CREATIVE PATTERNS 
 
 for smart mobs, co-creative swarms
@@ -51,6 +53,9 @@ Meaningfulness – a clear sense that what one is doing is useful and aligned wi
 
 A desirable future – people usually don’t want to invest time and energy in dead-end work
 
+## RADICAL NON VIOLENCE
+
+In a system that is based on war, control and domination, using violence is like throwing fuel to a fire, it doesn't help and only help make it stronger and backfires. Any attempt to change things will have to invent new ways of resisting violence using non-violent techniques.
 
 ## STIGMERGY
 
