@@ -9,7 +9,7 @@
 
 ### Situationisme et création de nouvelles réalités dans le quotidien
 
-Les situationnistes avaient décrits et testés comment créer (via les situations, les DETOURNEMENTs, ...) des espaces-temps libre du dogme dominant. (ref SITUATIONISME)
+Les situationnistes avaient décrits et testés comment créer (via les situations, les DETOURNEMENTs, ...) des espaces-temps libreS du dogme dominant. (ref SITUATIONISME)
 
 ### Les événements comme outils de transformation culturelle et sociale
 
@@ -25,7 +25,7 @@ Aucun changement n'est jamais permanent, pourtant un changement qui est explicit
 
 ### Zones autonomes temporaires
 
-Hakim Bey en donnant un nom auto-explicite et en apportant une réflexion theorique sur ces "zones autonomes temporaires" a contribué à pousser plus loin ces pratiques. (ref TAZ) Creer des trous dans l'étoffe de la réalité, libérer des territoires dans l'espace, le temps et surtout l'imaginaire.
+Hakim Bey en donnant un nom auto-explicite et en apportant une réflexion theorique sur ces "zones autonomes temporaires" a contribué à pousser plus loin ces pratiques. (ref TAZ) CrÉer des trous dans l'étoffe de la réalité, libérer des territoires dans l'espace, le temps et surtout l'imaginaire.
 
 ### Du "diner" à Burning Man.
 
@@ -35,7 +35,7 @@ De nos jours l'activisme se transforme en Artivisme. Fini le militantisme triste
 
 L'évènement par son ACTION PREFIGURATIVE devient un prototype du monde de demain, démontre la possiblité de faire autrement et rentre dans un mecanisme d'amélioration continue.
 
-Mieux ce processus commence a se faire en réseau global et decentralisé où chaque innovation est presque immédiatement reprise ailleurs. (article NETWORKED UTOPIA)
+Mieux ce processus commence à se faire en réseau global et decentralisé où chaque innovation est presque immédiatement reprise ailleurs. (article NETWORKED UTOPIA)
 
 
 ### Vers des flashmobs d'entraide mutuelle
@@ -87,8 +87,9 @@ Permablitz
 
 #### Propagation des Mêmes
 
-les 
-#ironèmes
+les #ironèmes
+
+les antipatterns comme mêmes toxiques (Salingaros).
 
 ### La difficulté à faire ensemble
 
@@ -262,6 +263,20 @@ nécessité d'un équilibre entre un vocabulaire commun qui permet de se coordon
 bonnes pratiques:
 
 latin ou grec ou autre langue, fusionné et mis à jour/coloré dans la langue souhaité.
+
+### Généricide: tuer les noms des marques 
+
+Si les entreprises ont conquit le territoire des mots, il est possible de leur infliger des blessures là ou elles sont le plus sensibles: sur leur nom de marque. Le nom de marque est leur capital culturel, ce qui les distingue les unes des autres auprès des consommateurs et elles investissent beaucoup pour developper et protéger cette IMAGE DE MARQUE. 
+
+Dans le livre "analogie coeur de la pensée", les auteurs décrivent le processus par lequel des noms propres deviennent des noms communs et se banalisent/généralisent et perdent leur identité de marque et leur majuscule (ex frigidaire est devenu un nom commun pour frigo).
+
+Pour cela il suffit d'identifier les caractéristiques récurrentes de la marque (PATTERNS) puis d'identifier d'autres situations dans lesquelles ces caractéristiques sont présentes puis d'associer systématiquement (RÉPÉTITION) les deux.
+
+Par exemple pour mc donalds les patterns sont MALBOUFFE/FASTFOOD et COMMUNICATION SOIGNÉE -> mcdonald culturel, mcdonaldisation de la société, ubérisation de l'emploi, emplois kleenex, ...
+
+Un groupe d'influenceurs syrnchronisés pourraient lancer des mêmes puissants et ruiner une image de marque par GÉNÉRICIDE
+
+Il est possible de 
 
 ### Les patterns: Vers un nouveau langage augmenté
 

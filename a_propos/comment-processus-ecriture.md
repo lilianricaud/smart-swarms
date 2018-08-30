@@ -17,7 +17,7 @@ FAIRE AVEC pas faire pour
 
 ## DES PATTERNS AUX DETAILS
 
-clarifier les grandes lilgnes qui ne vont pas bouger, puis affiner les détails au fur et à mesure : utiliser MINDMAP, CARTES, ITERATIONS
+clarifier les grandes lignes qui ne vont pas bouger, puis affiner les détails au fur et à mesure : utiliser MINDMAP, CARTES, ITERATIONS
 
 ## SPRINTS
 
