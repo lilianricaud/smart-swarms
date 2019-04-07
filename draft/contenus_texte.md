@@ -285,6 +285,12 @@ une granularité plus adapté à la complexité que la page ou les données.
 - relié: aux patterns plus petits qui le composent ou plus grands auxquels il appatrient
 - coloré: existe sous une forme générique et sous différentes fomes adaptées à différents contextes
 
+une structure gramaticalle: on peut composer certaines combinaisons qui ont du sens, mais toutes les combinaisons ne sont pas fonctionnelles:
+
+des mots-concepts plus puissants que les mots classiques: ne décrivent pas qu'une définition, mais à la fois une définition de mise en oeuvre d'un objet, d'une solution. De plus ces objets et solutions sont génératifs, c'est à dire qu'ils induisent une capacité du système à résoudre les tensions entre les forces présentes à son échelle.
+
+un outil pour vaforiser la création d'un langage commun et de sens partagé au sein d'un groupe.
+
 #### Patterns
 
 faire un dossier avec fichiers individuels.md
