@@ -119,7 +119,7 @@ Dans le livre 1984 Georges Orwell narrait avec brio comment le langage appauvri 
 
 La novlangue de 1984 nous ote du pouvoir de discerner des nuances et donc du pouvoir d'agir.
 
-Reférénce: ateliers de desintoxication de la langue de bois
+Reférence: ateliers de desintoxication de la langue de bois
 
 A l'inverse un langage capacitant, nous donnerait du pouvoir d'agir
 
@@ -146,7 +146,7 @@ Il semble que le système soit capable de récupérer n'importe quel mot et à g
 
 démocratie ou mieux "démocratie participative", si la démocratie était réellement participative on n'aurait pas besoin de préciser.
 
-innovation = progrès sans la vision humaniste, mais a visée commerciale.
+innovation = progrès sans la vision humaniste, mais à visée commerciale.
 
 
 ### Guerilla Ontologique
@@ -161,7 +161,7 @@ Payer = pacare = faire la paix => l'économie doit être pacificatrice pour avoi
 
 A mon sens cette quète est vaine, ou en tout cas elle n'est pas suffisante. Le bombardement médiatique a déja trop abimé ces mots pour qu'il soit facilement recuperable.
 
-Mieux vaut penser le langage en mode guerilla, occuper les mots temporairement, s'en servir pour se reconnaitre entre initiés, sous groupe, déjouer la détection jusqu'a ce que ce ne soit plus possible et alors abandonner le mots pour en trouver d'autres.
+Mieux vaut penser le langage en mode guerilla, occuper les mots temporairement, s'en servir pour se reconnaitre entre initiés, sous groupe, déjouer la détection jusqu'à ce que ce ne soit plus possible et alors abandonner le mots pour en trouver d'autres.
 
 Comme une sorte de jeu de chat et souris, cette guerilla ontologique permettrai de ménager des espaces de liberté de pensée, de libérer l'imaginaire 
 
@@ -202,8 +202,8 @@ Quelles sont les rencontres, les rituels connus et qui n'ont pas besoin d'être 
 
 - les fêtes religieuses, NOEL, PAQUES, ... 
 - les fêtes institutionnelles (FÊTE NATIONALE, ...) 
-- les rituels de la vie (BAPTEME, MARIAGE, ENTERREMENT) 
-- les évènements sportifs ou autres devenus immensement populaire parce que poussé par le marketing et les lobbies financiers (COUPES DU MONDE, HALLOWEEN...)
+- les rituels de la vie (BAPTEME, ANNIVERSAIRE, MARIAGE, ENTERREMENT) 
+- les évènements sportifs ou autres devenus immensement populaires parce que poussé par le marketing et les lobbies financiers (COUPES DU MONDE, HALLOWEEN...)
 - les rituels professionnels (REUNIONS, SEMINAIRES, CONFERENCES...).
 
 A coté certaines communautés de pratiques ont des vocabulaire specifiques (MINGA, BARNRAISING, )
@@ -242,7 +242,7 @@ langue standard à inventer pour mieux s'entendre puis à détruire pour le remp
 
 Appliqués aux evenements, ils permettent de cartographier les bonnes pratiques presentes ou pas et leur inter-relations.
 
--> enrichir les evenement existants, pas à pas, via un processus génératifs pour qu'ils soient multifonctions, interdiscilplinanire
+-> enrichir les evenement existants, pas à pas, via un processus génératifs pour qu'ils soient multifonctions, interdisciplinaires
 
 ### Concevoir des evenements-actions-sens
 
@@ -274,11 +274,16 @@ Pour cela il suffit d'identifier les caractéristiques récurrentes de la marque
 
 Par exemple pour mc donalds les patterns sont MALBOUFFE/FASTFOOD et COMMUNICATION SOIGNÉE -> mcdonald culturel, mcdonaldisation de la société, ubérisation de l'emploi, emplois kleenex, ...
 
-Un groupe d'influenceurs syrnchronisés pourraient lancer des mêmes puissants et ruiner une image de marque par GÉNÉRICIDE
+Un groupe d'influenceurs synchronisés pourraient lancer des mêmes puissants et ruiner une image de marque par GÉNÉRICIDE
 
 Il est possible de 
 
 ### Les patterns: Vers un nouveau langage augmenté
+
+une granularité plus adapté à la complexité que la page ou les données.
+- autosuffisant: contient l'information nécessaire à sa compréhension 
+- relié: aux patterns plus petits qui le composent ou plus grands auxquels il appatrient
+- coloré: existe sous une forme générique et sous différentes fomes adaptées à différents contextes
 
 #### Patterns
 
