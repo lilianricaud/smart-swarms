@@ -280,16 +280,20 @@ Il est possible de
 
 ### Les patterns: Vers un nouveau langage augmenté
 
+pattern comme langage augmenté
+
 une granularité plus adapté à la complexité que la page ou les données.
 - autosuffisant: contient l'information nécessaire à sa compréhension 
-- relié: aux patterns plus petits qui le composent ou plus grands auxquels il appatrient
-- coloré: existe sous une forme générique et sous différentes fomes adaptées à différents contextes
+- relié: aux patterns plus petits qui le composent ou plus grands auxquels il appartient
+- coloré: existe sous une forme générique et sous différentes formes adaptées à différents contextes
+- fractal: différent patterns à différentes échelles 
+- champs: agit à une certain échelle, son effet se dilue au dela 
 
 une structure gramaticalle: on peut composer certaines combinaisons qui ont du sens, mais toutes les combinaisons ne sont pas fonctionnelles:
 
 des mots-concepts plus puissants que les mots classiques: ne décrivent pas qu'une définition, mais à la fois une définition de mise en oeuvre d'un objet, d'une solution. De plus ces objets et solutions sont génératifs, c'est à dire qu'ils induisent une capacité du système à résoudre les tensions entre les forces présentes à son échelle.
 
-un outil pour vaforiser la création d'un langage commun et de sens partagé au sein d'un groupe.
+un outil pour favoriser la création d'un langage commun et de sens partagé au sein d'un groupe.
 
 #### Patterns
 
