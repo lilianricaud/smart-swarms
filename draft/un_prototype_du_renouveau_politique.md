@@ -8,7 +8,6 @@ Nuit debout où certains participent pour la première fois à un débat ou à u
 
 En explicitant ces objectifs flous, en en prenant conscience et en les acceptant comme tels, le mouvement aurait pu progresser plus vite.
 
-
-une facette du mouvement, peut etre pas la seule mais une qui n'est pas négligeable.
+C'est une facette du mouvement, peut etre pas la seule mais une qui n'est pas négligeable.
 
 
